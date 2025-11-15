@@ -2,19 +2,19 @@
 
 # Uncomment and complete the url below to enable more contact options
 - tyle: location
-  icon: "ai ai-location"
+  icon: "fas fa-map-marker-alt"
   url: "https://maps.app.goo.gl/vAAps8kbdfKCWimc8"
 
 - type: flask
-  icon: "ai ai-flask"
+  icon: "fas fa-flask"
   url: "https://lab.cybercampus.se/"
 
 - type: university
-  icon: "ai ai-university"
+  icon: "fas fa-university"
   url: "https://www.kth.se/profile/emsuren"
 
 - type: linkedin
-  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  icon: "fab fa-linkedin"   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/emres%C3%BCren/'
 
 - type: github
@@ -22,11 +22,11 @@
   url: "https://github.com/beyefendi"
 
 - type: google-scholar
-  icon: "ai ai-google-scholar"
+  icon: "fas fa-graduation-cap"
   url: "https://scholar.google.com/citations?user=CnQIGjQAAAAJ&hl=en"
 
 - type: orcid
-  icon: "ai ai-orcid"
+  icon: "fab fa-orcid"
   url: "https://orcid.org/0000-0003-2356-8590"
 
 # - type: twitter
