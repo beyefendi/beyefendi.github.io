@@ -16,10 +16,10 @@ timezone: Europe/Stockholm
 
 title: Dr. Emre Süren # the main title
 
-tagline: Security Researcher # it will display as the subtitle
+tagline: Researcher # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Dr. Emre Süren is a researcher focused on LLM security, cyber threat intelligence, and IoT hacking.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -46,7 +46,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: h-y4nVBNZ1JBSYBsrWGrW2na5_Chu9Dvp4WFHhaEdTY
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://people.kth.se/~emsuren/img/profile.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -195,6 +195,8 @@ defaults:
 
 sass:
   style: compressed
+  load_paths:
+    - assets/css
 
 compress_html:
   clippings: all
