@@ -28,11 +28,10 @@ Royal Hacking Lab's Research Vision
 
 2025-11-20 | Royal Hacking Lab | MSB (Swedish Civil Contingencies Agency) |
 
-TODAY
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-11-msb.jpeg){: w="100" h="100" .left .talk-img}
+Dr. Emre Süren presented the lab's completed research and upcoming studies to an audience of 40 industry professionals at an event organized by MSB (Swedish Civil Contingencies Agency). The interactive session highlighted how the lab discloses vulnerabilities and interesting conversations with manufacturers, contributes to master's student education, and prepares graduates to meet the evolving needs of the cybersecurity industry. 
 
 * * *
-
-
 
 Most Impactful Discoveries in the Lab
 -------------------------------------
