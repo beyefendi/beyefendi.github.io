@@ -32,13 +32,22 @@ UPCOMING SOON
 
 * * *
 
+Crime Prevention in Hyperspaces
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> 2025-11-20 | <i class="fa-solid fa-location-dot"></i> KTH Royal Institute of Technology | <i class="fa fa-bookmark"></i> Safeplaces Network & Digital Futures | <i class="fa fa-thumbs-up"></i> 
+
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-11-crime-prevention.jpg){: w="100" h="100" .left .talk-img}
+Dr. Emre Süren served as a discussant for Prof. Martin Törngren's presentation at the seminar organized by Prof. Vania Ceccato. The discussion explored critical security challenges in autonomous transportation, including privacy concerns related to smart vehicles transmitting GPS location data to services outside the EU, and adversarial poisoning attacks that manipulate self-driving systems to misinterpret road signs.
+
+* * *
 
 Royal Hacking Lab's Research Vision
 -----------------------------------
 
 <i class="fa-regular fa-calendar"></i> 2025-11-20 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> MSB (Swedish Civil Contingencies Agency) | <i class="fa fa-thumbs-up"></i> 
 
-![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-11-msb.jpeg){: w="100" h="100" .left .talk-img}
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-11-msb.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren presented the lab's completed research and upcoming studies to an audience of 40 industry professionals at an event organized by MSB (Swedish Civil Contingencies Agency). The interactive session highlighted how the lab discloses vulnerabilities and interesting conversations with manufacturers, contributes to master's student education, and prepares graduates to meet the evolving needs of the cybersecurity industry. 
 
 * * *
