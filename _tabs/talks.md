@@ -26,7 +26,7 @@ UPCOMING SOON
 AI in Offensive Security: Key Challenges in LLM-Driven Research
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-12-02 | <i class="fa-solid fa-location-dot"></i> Stockholm | <i class="fa fa-bookmark"></i> State of Cybersecurity 2025 | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/heliview-nordics_cybersecurity-ai-digitalresilience-activity-7394301702742491136-x5tI) [Link 2](https://heliview.com/state-cyber-security-sweden/experts/) 
+<i class="fa-regular fa-calendar"></i> 2025-12-02 | <i class="fa-solid fa-location-dot"></i> Stockholm | <i class="fa fa-bookmark"></i> State of Cybersecurity 2025 | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/heliview-nordics_cybersecurity-artificialintelligence-insiderthreats-activity-7391047743865114625-nLZU) [Link 2](https://www.linkedin.com/posts/heliview-nordics_cybersecurity-ai-digitalresilience-activity-7394301702742491136-x5tI) [Link 3](https://heliview.com/state-cyber-security-sweden/experts/) 
 
 UPCOMING SOON
 
@@ -35,7 +35,7 @@ UPCOMING SOON
 Crime Prevention in Hyperspaces
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-11-20 | <i class="fa-solid fa-location-dot"></i> KTH Royal Institute of Technology | <i class="fa fa-bookmark"></i> Safeplaces Network & Digital Futures | <i class="fa fa-thumbs-up"></i> 
+<i class="fa-regular fa-calendar"></i> 2025-11-20 | <i class="fa-solid fa-location-dot"></i> KTH Royal Institute of Technology | <i class="fa fa-bookmark"></i> Safeplaces Network & Digital Futures | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/vania-ceccato-7973a896_hyperspace-cyrbercampus-hyperspace-activity-7397878086933004289-7BSI)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-11-crime-prevention.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren served as a discussant for Prof. Martin Törngren's presentation at the seminar organized by Prof. Vania Ceccato. The discussion explored critical security challenges in autonomous transportation, including privacy concerns related to smart vehicles transmitting GPS location data to services outside the EU, and adversarial poisoning attacks that manipulate self-driving systems to misinterpret road signs.
