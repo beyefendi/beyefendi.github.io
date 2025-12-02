@@ -12,7 +12,7 @@ Current Grants
 
     *2026 – 2027* | [Digital Futures - Research Pairs](https://www.digitalfutures.kth.se/call/open-call-research-pairs-projects/)
     PI | 2,000,000 SEK (~0.18M €)
-    Project | AI based Cyber Threat Intelligence research
+    Project | [AI based Cyber Threat Intelligence research](https://www.digitalfutures.kth.se/project/cortex-an-llm-driven-framework-for-enhanced-cti/)
     
 *   **Sweden's Cyber Threat Intelligence (NAISS 2025/6-50)**
     
