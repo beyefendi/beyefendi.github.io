@@ -17,11 +17,23 @@ UPCOMING SOON
 Practical Adversarial GenAI for Red Teamers (Workshop)
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-12-08 | <i class="fa-solid fa-location-dot"></i> Frankfurt | <i class="fa fa-bookmark"></i> EU Central Bank | <i class="fa fa-thumbs-up"></i> 
+<i class="fa-regular fa-calendar"></i> 2025-12-08 | <i class="fa-solid fa-location-dot"></i> Frankfurt | <i class="fa fa-bookmark"></i> EU Central Bank | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/2025-12-ecb-1.jpg) [Link 2](/assets/img/talks/2025-12-ecb-2.jpg) [Link 3](/assets/img/talks/2025-12-ecb-3.jpg)
 
-UPCOMING SOON
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-12-ecb.jpg){: w="100" h="100" .left .talk-img}
+Dr. Emre Süren delivered a hands-on workshop at the European Central Bank, demonstrating practical experiments in adversarial GenAI techniques. The session covered prompt injection attacks, jailbreaking methodologies, and the deployment of autonomous penetration testing agents, providing participants with direct experience in offensive AI security research.
 
 * * *
+
+Research Vision
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> 2025-12-04 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> Forum for Adjunct Professors and Affiliated Faculty | <i class="fa fa-thumbs-up"></i>
+
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-12-adjunct-faculty.jpg){: w="100" h="100" .left .talk-img}
+Dr. Emre Süren outlined the lab’s research vision to the Forum for Adjunct Professors and Affiliated Faculty, summarizing completed studies, near‑term projects, and collaboration pathways. The session covered vulnerability disclosure practices, engagement with manufacturers, integration of results into master’s education, and how the lab’s work aligns with industry needs and upcoming funding opportunities.
+
+* * *
+
 
 AI in Offensive Security: Key Challenges in LLM-Driven Research
 -----------------------------------
