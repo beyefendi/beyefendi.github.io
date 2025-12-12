@@ -4,7 +4,7 @@ icon: fa-solid fa-comment
 order: 2
 ---
 
-Royal Hacking Lab's Research Vision
+Research Vision
 -----------------------------------
 
 <i class="fa-regular fa-calendar"></i> 2025-12-18 | <i class="fa-solid fa-location-dot"></i> KTH Nymble | <i class="fa fa-bookmark"></i> Cicor Group | <i class="fa fa-thumbs-up"></i> 
@@ -13,6 +13,16 @@ UPCOMING SOON
 
 * * *
 
+Research Vision
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> 2025-12-12 | <i class="fa-solid fa-location-dot"></i> Stockholm | <i class="fa fa-bookmark"></i> Criminal Court (Tingsrätt) | <i class="fa fa-thumbs-up"></i> 
+
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-12-court.jpg){: w="100" h="100" .left .talk-img}
+
+Dr. Emre Süren served as an expert witness for the Stockholm Criminal Court in a high-profile case involving a victim and one of Sweden's largest banks. Based on forensic analysis of the defendant's computer, he compiled a detailed report identifying the parties responsible at each stage of the incident. Through his expert testimony, Dr. Süren demonstrated his commitment to public service by contributing his cybersecurity expertise to the justice system.
+
+* * *
 
 Practical Adversarial GenAI for Red Teamers (Workshop)
 -----------------------------------
