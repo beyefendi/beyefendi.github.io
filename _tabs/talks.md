@@ -18,7 +18,7 @@ Dr. Emre Süren delivered an interactive talk at the Christmas event organized b
 Digital Forensics Expertise
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-12-12 | <i class="fa-solid fa-location-dot"></i> Stockholm | <i class="fa fa-bookmark"></i> Criminal Court (Tingsrätt) | <i class="fa fa-thumbs-up"></i> 
+<i class="fa-regular fa-calendar"></i> 2025-12-12 | <i class="fa-solid fa-location-dot"></i> Stockholm | <i class="fa fa-bookmark"></i> Criminal Court (Tingsrätt) | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/2025-12-cicor-1jpg)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-12-court.jpg){: w="100" h="100" .left .talk-img}
 
