@@ -9,11 +9,13 @@ Research Vision
 
 <i class="fa-regular fa-calendar"></i> 2025-12-18 | <i class="fa-solid fa-location-dot"></i> KTH Nymble | <i class="fa fa-bookmark"></i> Cicor Group | <i class="fa fa-thumbs-up"></i> 
 
-UPCOMING SOON
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-12-cicor.jpg){: w="100" h="100" .left .talk-img}
+
+Dr. Emre Süren delivered an interactive talk at the Christmas event organized by Cicor Group for its employees. The hands-on workshop demonstrated an autonomous hacking agent, sparking engaging conversations among attendees. Additionally, Dr. Süren introduced his new research grant in Cyber Threat Intelligence and discussed emerging challenges in Sweden's Internet.
 
 * * *
 
-Research Vision
+Digital Forensics Expertise
 -----------------------------------
 
 <i class="fa-regular fa-calendar"></i> 2025-12-12 | <i class="fa-solid fa-location-dot"></i> Stockholm | <i class="fa fa-bookmark"></i> Criminal Court (Tingsrätt) | <i class="fa fa-thumbs-up"></i> 
