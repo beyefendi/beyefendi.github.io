@@ -154,7 +154,7 @@ Dr. Emre Süren at Royal Hacking Lab presented to a delegation of American congr
 Royal Hacking Lab's Research Vision
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-09-24 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> MSAB | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/royal-hacking-lab_we-were-pleased-to-welcome-msab-the-company-activity-7377283073236901888-CmvB?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaOUuUBHja6qtY2ThaUlXKelxECoghsrgw)
+<i class="fa-regular fa-calendar"></i> 2025-09-24 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> MSAB | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/royal-hacking-lab_we-were-pleased-to-welcome-msab-the-company-activity-7377283073236901888-CmvB)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-09-msab.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren hosted MSAB, the Swedish company behind XRY, one of the world’s most widely used smartphone forensics tools. During the visit, he presented the lab’s recent results, including discoveries of vulnerabilities in widely used mobile applications in Sweden, insights into discriminating patterns in dual-use Windows binary behavior, and planned projects on AI-driven vulnerability discovery.
@@ -176,7 +176,7 @@ Dr. Emre Süren, Head of the Royal Hacking Lab, presented the lab’s prior work
 Proposal: Artificial General Intelligence for Offensive Security
 ----------------------------------------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-06-27 | <i class="fa-solid fa-location-dot"></i> Online | <i class="fa fa-bookmark"></i> EU Cybersecurity Funding - Digital EU and Horizon EU 2025 | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/royal-hacking-lab_cybersecurity-eucyberfunding-horizoneurope-activity-7344346820178862082-kd33?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaOUuUBHja6qtY2ThaUlXKelxECoghsrgw)
+<i class="fa-regular fa-calendar"></i> 2025-06-27 | <i class="fa-solid fa-location-dot"></i> Online | <i class="fa fa-bookmark"></i> EU Cybersecurity Funding - Digital EU and Horizon EU 2025 | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/royal-hacking-lab_cybersecurity-eucyberfunding-horizoneurope-activity-7344346820178862082-kd33)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-06-benelux-horizon-matchmaking.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren shared his expertise in vulnerability research, large language models (LLMs) in security, cyber threat intelligence, and digital forensics at the “European Cybersecurity Funding – Digital Europe and Horizon Europe” event, organized by the Benelux NCCs (NCC-NL, NCC-BE, NCC-LU, and the Benelux National Contact Points). The event aimed to identify suitable participants for forming a consortium for the ECCC-01 call.
@@ -187,7 +187,7 @@ Dr. Emre Süren shared his expertise in vulnerability research, large language m
 Proposal: Offensive AI Security
 -------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-06-12 | <i class="fa-solid fa-location-dot"></i> Brussels | <i class="fa fa-bookmark"></i> EU Horizon Cluster 3 Brokerage Event 2025 | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/royal-hacking-lab_horizoneurope-eucluster3-innovation-activity-7339762306563596289-1Nml?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaOUuUBHja6qtY2ThaUlXKelxECoghsrgw)
+<i class="fa-regular fa-calendar"></i> 2025-06-12 | <i class="fa-solid fa-location-dot"></i> Brussels | <i class="fa fa-bookmark"></i> EU Horizon Cluster 3 Brokerage Event 2025 | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/royal-hacking-lab_horizoneurope-eucluster3-innovation-activity-7339762306563596289-1Nml?)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-06-eu-horizon-matchmaking.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren, Head of the Royal Hacking Lab, presented a proposal among 25 innovative project ideas to an audience of ~200 participants in Brussels. His proposal focuses on leveraging generative AI for vulnerability research and enhancing Europe’s capabilities to combat crime and terrorism. The aim is to form a strong consortium to apply for upcoming ECCC-X calls.
@@ -198,7 +198,7 @@ Dr. Emre Süren, Head of the Royal Hacking Lab, presented a proposal among 25 in
 Royal Hacking Lab's Research Vision
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-06-03 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> SWITS'25 Seminar | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/cybercampus-sweden_swits-cybersecurity-swits-ugcPost-7335956335051579392-9vb7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaOUuUBHja6qtY2ThaUlXKelxECoghsrgw)
+<i class="fa-regular fa-calendar"></i> 2025-06-03 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> SWITS'25 Seminar | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/cybercampus-sweden_swits-cybersecurity-swits-ugcPost-7335956335051579392-9vb7)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-06-swits.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren from the Royal Hacking Lab delivered a live IoT hacking demonstration during the 25th SWITS Seminar — the Swedish IT Security Network for PhD students and researchers. Hosted by Cybercampus Sverige, the event brought together around 100 participants who visited the lab in four dynamic sessions, marking the largest-ever visit to the Royal Hacking Lab!
@@ -209,7 +209,7 @@ Dr. Emre Süren from the Royal Hacking Lab delivered a live IoT hacking demonstr
 Royal Hacking Lab's Research Vision
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-05-16 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> Nanyang Technological University (Singapore) | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/royal-hacking-lab_welcoming-bright-minds-nanyang-technological-ugcPost-7330717610033987584-GzwC?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaOUuUBHja6qtY2ThaUlXKelxECoghsrgw)
+<i class="fa-regular fa-calendar"></i> 2025-05-16 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> Nanyang Technological University (Singapore) | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/royal-hacking-lab_welcoming-bright-minds-nanyang-technological-ugcPost-7330717610033987584-GzwC)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-05-nangyang.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren presented the research done at Royal Hacking Lab to the students from Nanyang Technological University (NTU) Singapore. As NTU is a strategic partner of KTH Royal Institute of Technology, the idea is to draw attention to land exceptional students to the lab.
@@ -220,7 +220,7 @@ Dr. Emre Süren presented the research done at Royal Hacking Lab to the students
 Proposal: Offensive AI Security for National Security
 -----------------------------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-05-14 | <i class="fa-solid fa-location-dot"></i> Swedish Defence University | <i class="fa fa-bookmark"></i> CS4S Matchmaking Event | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/royal-hacking-lab_royal-hacking-lab-looking-for-funding-activity-7331261312980746240-vkSK?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaOUuUBHja6qtY2ThaUlXKelxECoghsrgw)
+<i class="fa-regular fa-calendar"></i> 2025-05-14 | <i class="fa-solid fa-location-dot"></i> Swedish Defence University | <i class="fa fa-bookmark"></i> CS4S Matchmaking Event | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/royal-hacking-lab_royal-hacking-lab-looking-for-funding-activity-7331261312980746240-vkSK)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-05-crowdhelix.jpg){: w="100" h="100" .left .talk-img}
 Our lab manager Dr. Emre Süren gave a poster pitch at the Civil Security for Society Matchmaking Event by CrowdHelix to find collaborators for EU Cluster 3 2025 call. Dr. Emre pitched our latest lab work AI-fueled vulnerability research and AI-powered cyber threat intelligence.
@@ -231,7 +231,7 @@ Our lab manager Dr. Emre Süren gave a poster pitch at the Civil Security for So
 Royal Hacking Lab's Research Vision
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-05-08 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> Nackademin & IT-Högskolan | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/nse-hacking-lab_so-how-was-your-thursday-mine-was-pretty-activity-7326337906770378755-mk7E?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaOUuUBHja6qtY2ThaUlXKelxECoghsrgw)
+<i class="fa-regular fa-calendar"></i> 2025-05-08 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> Nackademin & IT-Högskolan | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/nse-hacking-lab_so-how-was-your-thursday-mine-was-pretty-activity-7326337906770378755-mk7E)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-05-nakademin.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren presented ongoing research in IoT Hacking, Threat Intelligence, and LLM Security to an engaged students from Nackademin and IT-Högskolan. The demo contained a series of vulnerabilities (publicly available data, a default password, some weak encoding, and a business logic flaw) causing remote code execution.
@@ -242,7 +242,7 @@ Dr. Emre Süren presented ongoing research in IoT Hacking, Threat Intelligence, 
 AI vs. AI: Current Battlefield of Offensive Security
 ----------------------------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-04-29 | <i class="fa-solid fa-location-dot"></i> Cybercampus Sverige | <i class="fa fa-bookmark"></i> Cybersäkerhetsutbildning för Diplomatprogrammet | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/nse-hacking-lab_cybersecurity-ai-digitaldiplomacy-activity-7325492577669992448-XjMc?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaOUuUBHja6qtY2ThaUlXKelxECoghsrgw)
+<i class="fa-regular fa-calendar"></i> 2025-04-29 | <i class="fa-solid fa-location-dot"></i> Cybercampus Sverige | <i class="fa fa-bookmark"></i> Cybersäkerhetsutbildning för Diplomatprogrammet | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/nse-hacking-lab_cybersecurity-ai-digitaldiplomacy-activity-7325492577669992448-XjMc)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-04-diplomatprogram.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren, our Head of Lab, delivered a lecture on AI and cybersecurity to Sweden’s next generation of diplomats. As part of their training, diplomatic interns are required to complete a series of cybersecurity modules — and we were proud to contribute by offering a session on AI Security within the Cyber Security Training for Diplomats program, hosted by Cybercampus Sverige | Sweden.
@@ -253,7 +253,7 @@ Dr. Emre Süren, our Head of Lab, delivered a lecture on AI and cybersecurity to
 Offensive Security in the AI Threat Landscape
 ---------------------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-04-10 | <i class="fa-solid fa-location-dot"></i> Altinget | <i class="fa fa-bookmark"></i> Cybersäkerhet Nätverk | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/altinget-natverk_fullt-upp-idag-när-altinget-roddade-två-parallella-activity-7316094006017310720-51tI?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaOUuUBHja6qtY2ThaUlXKelxECoghsrgw) [Link 2](https://www.linkedin.com/posts/nse-hacking-lab_offensive-security-in-the-ai-threat-landscape-activity-7317452809497391104-az6g?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaOUuUBHja6qtY2ThaUlXKelxECoghsrgw)
+<i class="fa-regular fa-calendar"></i> 2025-04-10 | <i class="fa-solid fa-location-dot"></i> Altinget | <i class="fa fa-bookmark"></i> Cybersäkerhet Nätverk | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/altinget-natverk_fullt-upp-idag-när-altinget-roddade-två-parallella-activity-7316094006017310720-51tI) [Link 2](https://www.linkedin.com/posts/nse-hacking-lab_offensive-security-in-the-ai-threat-landscape-activity-7317452809497391104-az6g)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-04-altinget.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren delivered a guest lecture at Altinget Cybersecurity Network. His presentation focused on key challenges in fine-tuning models for offensive security, optimizing LLM outputs to assist in vulnerability discovery, understanding the limitations of AI agents, and exploring how these models can be utilized in classified environments. He also demonstrated prompt injection attacks on two commercial chatbots.
@@ -264,7 +264,7 @@ Royal Hacking Lab's Research Vision
 -----------------------------------
 
 
-<i class="fa-regular fa-calendar"></i> 2025-03-27 | <i class="fa-solid fa-location-dot"></i> KTH Royal Institute of Technology | <i class="fa fa-bookmark"></i> KTH Fusion Career Fair - Research Corner | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/nse-hacking-lab_our-research-vision-we-recently-activity-7315089738741297153-N3dx?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaOUuUBHja6qtY2ThaUlXKelxECoghsrgw)
+<i class="fa-regular fa-calendar"></i> 2025-03-27 | <i class="fa-solid fa-location-dot"></i> KTH Royal Institute of Technology | <i class="fa fa-bookmark"></i> KTH Fusion Career Fair - Research Corner | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/nse-hacking-lab_our-research-vision-we-recently-activity-7315089738741297153-N3dx)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-03-kth-fusion.jpg){: w="100" h="100" .left .talk-img}
 Head of Hacking Lab, Dr. Emre Süren, participated in the career fair organized by KTH Fusion (Physics Chapter's Career Fair 2025), where he had the opportunity to speak with many students about the exciting projects planned in the lab as well as ongoing research.
@@ -276,7 +276,7 @@ Head of Hacking Lab, Dr. Emre Süren, participated in the career fair organized 
 Offensive Security in the AI Revolution
 ---------------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-03-20 | <i class="fa-solid fa-location-dot"></i> Detectify | <i class="fa fa-bookmark"></i> OWASP Meetup | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/nse-hacking-lab_cybersecurity-offensiveai-llmsecurity-activity-7310548593306722304-ok6S?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaOUuUBHja6qtY2ThaUlXKelxECoghsrgw)
+<i class="fa-regular fa-calendar"></i> 2025-03-20 | <i class="fa-solid fa-location-dot"></i> Detectify | <i class="fa fa-bookmark"></i> OWASP Meetup | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/nse-hacking-lab_cybersecurity-offensiveai-llmsecurity-activity-7310548593306722304-ok6S)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-03-detectify-owasp.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren took the stage at an amazing Hack Night organized by OWASP and Detectify. The interactive session dived into: Prompt injection attacks, Fine-tuning LLMs & deploying LLM agents, as well as Current challenges in AI security.
@@ -287,7 +287,7 @@ Dr. Emre Süren took the stage at an amazing Hack Night organized by OWASP and D
 Offensive AI in Cybersecurity: A Research Outlook
 -------------------------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-03-20 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> KTH Executive School Guest Lecture | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/nse-hacking-lab_cybersecurity-offensiveai-llmsecurity-activity-7309465175231758336-GUmV?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaOUuUBHja6qtY2ThaUlXKelxECoghsrgw)
+<i class="fa-regular fa-calendar"></i> 2025-03-20 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> KTH Executive School Guest Lecture | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/nse-hacking-lab_cybersecurity-offensiveai-llmsecurity-activity-7309465175231758336-GUmV)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-03-kth-executive-school.jpg){: w="100" h="100" .left .talk-img}
 Royal Hacking Lab was delighted to host KTH Executive School, with Program Director Ulf Änggård, and valuable staff from Stellar Capacity for an exciting session on cutting-edge cybersecurity research. Dr. Emre Süren presented the current research and future vision, diving into offensive AI, vulnerabilities in the intersection of IoT and LLMs. The session featured: IoT device exploitation – hands-on attack, LLM security weaknesses – practical demonstrations, and a password cracking challenge – a mini-game with the participants.
@@ -310,7 +310,7 @@ A restricted event was held at the top floor of KTH Rektorshuset where Dr. Emre 
 When AI Hunts AI: Cybersecurity in the Age of Intelligent Threats
 -----------------------------------------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-03-03 | <i class="fa-solid fa-location-dot"></i> Stellar Capacity | <i class="fa fa-bookmark"></i> Cybersecurity Masterclass | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/nse-hacking-lab_cybersecurity-ai-llmsecurity-activity-7305537931622903809-uRwq?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaOUuUBHja6qtY2ThaUlXKelxECoghsrgw)
+<i class="fa-regular fa-calendar"></i> 2025-03-03 | <i class="fa-solid fa-location-dot"></i> Stellar Capacity | <i class="fa fa-bookmark"></i> Cybersecurity Masterclass | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/nse-hacking-lab_cybersecurity-ai-llmsecurity-activity-7305537931622903809-uRwq)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-03-stellar-capacity.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren, Head of Hacking Lab, took the stage at an event organized by Stellar Capacity, where he presented the cutting-edge research he has been leading. His hands-on session demonstrated real-world examples of prompt injection attacks on mainstream LLMs, highlighting the risks these models face in the wild. Beyond showcasing vulnerabilities, he introduced his ongoing work on integrating LLMs into vulnerability research, including fine-tuning models to detect security flaws before they can be exploited.
@@ -321,7 +321,7 @@ Dr. Emre Süren, Head of Hacking Lab, took the stage at an event organized by St
 Smartwatch Hacking
 ------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-02-20 | <i class="fa-solid fa-location-dot"></i> Cybercampus Sverige | <i class="fa fa-bookmark"></i> University of Strathclyde Visit | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/cybercampus-sweden_cybersecurity-activity-7300854519192522754-P3um?utm_source=share&utm_medium=member_desktop&rcm=ACoAABaOUuUBHja6qtY2ThaUlXKelxECoghsrgw)
+<i class="fa-regular fa-calendar"></i> 2025-02-20 | <i class="fa-solid fa-location-dot"></i> Cybercampus Sverige | <i class="fa fa-bookmark"></i> University of Strathclyde Visit | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/cybercampus-sweden_cybersecurity-activity-7300854519192522754-P3um)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-02-strathclyde-univ.jpg){: w="100" h="100" .left .talk-img}
 Royal Hacking Lab has been visited by a Scottish University. Dr. Emre Süren demonstrated a real-world attack on smartwatches tampering the communication traffic.
@@ -355,7 +355,7 @@ Royal Hacking Lab hosted the KTH Rector with the rector's advisory committee for
 Sweden's Threat Intelligence
 ----------------------------
 
-<i class="fa-regular fa-calendar"></i> 2024-06-14 | <i class="fa-solid fa-location-dot"></i> Stockholm | <i class="fa fa-bookmark"></i> MidNightSunCTF Conference | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/activity-7207606161854889984-dAZo?utm_source=share&utm_medium=member_desktop) [Link 2](https://www.linkedin.com/posts/cybercampus-sweden_research-education-innovation-activity-7209522358183723008-9nPD?utm_source=share&utm_medium=member_desktop)
+<i class="fa-regular fa-calendar"></i> 2024-06-14 | <i class="fa-solid fa-location-dot"></i> Stockholm | <i class="fa fa-bookmark"></i> MidNightSunCTF Conference | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/activity-7207606161854889984-dAZo) [Link 2](https://www.linkedin.com/posts/cybercampus-sweden_research-education-innovation-activity-7209522358183723008-9nPD)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2024-06-midnightsunctf-1.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren, Head of Hacking Lab, presented his research, Sweden's Threat Intelligence, at the Midnight Sun CTF Conference. He showed examples of vulnerable servers and IoT devices, infected devices, and attacker infrastructures all located in Sweden. He proposed an AI-based method to solve the current phenomena.
@@ -366,7 +366,7 @@ Dr. Emre Süren, Head of Hacking Lab, presented his research, Sweden's Threat In
 Large Language Models (LLMs) in Security Research
 -------------------------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2024-06-05 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> KTH Executive School Visit | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/cybercampus-sweden_cybersecurity-iot-artificialintelligence-activity-7205842645288423424-8sz_?utm_source=share&utm_medium=member_desktop)
+<i class="fa-regular fa-calendar"></i> 2024-06-05 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> KTH Executive School Visit | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/cybercampus-sweden_cybersecurity-iot-artificialintelligence-activity-7205842645288423424-8sz_)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2024-06-kth-executive-school.jpg){: w="100" h="100" .left .talk-img}
 Royal Hacking Lab is pleased to once again welcome Program Director @Ulf Änggård and his participants from the @KTH Executive School. Our lab manager, Dr. Emre Süren, provided a comprehensive overview of vulnerabilities in cars, charging stations, and smart medical devices. The session also covered the vulnerabilities within the large language model (LLM) ecosystem and explored how LLMs can be utilized for sensitive tasks.
@@ -389,7 +389,7 @@ A classified event was held at KTH Reaktorhallen where Dr. Emre Süren presented
 Hacking Lab Infrastructure and Collaboration Opportunities
 ----------------------------------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2024-05-27 | <i class="fa-solid fa-location-dot"></i> Lund University | <i class="fa fa-bookmark"></i> SWITS'24 Seminar | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/cybercampus-sweden_cybersecurity-swits24-hackinglab-activity-7201148524346925057-JJYe?utm_source=share&utm_medium=member_desktop)
+<i class="fa-regular fa-calendar"></i> 2024-05-27 | <i class="fa-solid fa-location-dot"></i> Lund University | <i class="fa fa-bookmark"></i> SWITS'24 Seminar | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/cybercampus-sweden_cybersecurity-swits24-hackinglab-activity-7201148524346925057-JJYe)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](https://www.kth.se/files/view/emsuren/6655a6553dda8254ba8e655d/img_6320.jpeg){: w="100" h="100" .left .talk-img}
 Royal Hacking Lab was thrilled to be featured at SWITS'24 Seminar, where Dr. Emre Süren had the opportunity to present our infrastructure, ongoing research, and potential collaboration opportunities.
@@ -401,7 +401,7 @@ Royal Hacking Lab was thrilled to be featured at SWITS'24 Seminar, where Dr. Emr
 Large Language Models (LLMs) in Security Research
 -------------------------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2024-05-17 | <i class="fa-solid fa-location-dot"></i> Cybercampus Sverige | <i class="fa fa-bookmark"></i> KTH Executive School Guest Lecture | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/cybercampus-sweden_cybersecurity-iot-artificialintelligence-activity-7198964015253872640-hboy?utm_source=share&utm_medium=member_desktop)
+<i class="fa-regular fa-calendar"></i> 2024-05-17 | <i class="fa-solid fa-location-dot"></i> Cybercampus Sverige | <i class="fa fa-bookmark"></i> KTH Executive School Guest Lecture | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/cybercampus-sweden_cybersecurity-iot-artificialintelligence-activity-7198964015253872640-hboy)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2024-05-kth-executive-school.jpg){: w="100" h="100" .left .talk-img}
 We were delighted to host participants from the @KTH Executive School at @NSE Hacking Lab. Program Director @Ulf Änggård, along with the class participants, joined us for an engaging and informative session. Our lab manager, @Emre Süren, provided an insightful overview of our cutting-edge IoT vulnerability research and demonstrated how we leverage artificial intelligence in our security research. One of the highlights was our renowned smartphone hacking demo, which showcased the practical applications of our research.
@@ -412,7 +412,7 @@ We were delighted to host participants from the @KTH Executive School at @NSE Ha
 Offensive Security for Medical IoT Devices
 ------------------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2024-05-06 | <i class="fa-solid fa-location-dot"></i> SciLifeLab | <i class="fa fa-bookmark"></i> HTM Matchmaking 2024 | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/cybercampus-sweden_healthtech-cybersecurity-collaboration-activity-7193884206123364354-pGvw?utm_source=share&utm_medium=member_desktop)
+<i class="fa-regular fa-calendar"></i> 2024-05-06 | <i class="fa-solid fa-location-dot"></i> SciLifeLab | <i class="fa fa-bookmark"></i> HTM Matchmaking 2024 | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/cybercampus-sweden_healthtech-cybersecurity-collaboration-activity-7193884206123364354-pGvw)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2024-05-htm-mm24.jpg){: w="100" h="100" .left .talk-img}
 We are excited to share that we had the privilege of presenting at the Health, Medicine, and Technology (HMT 2024) matchmaking event. During our pitch, Dr. Emre Süren, representing Cybercampus Sverige, shed light on the critical issue of vulnerabilities in today's medical devices. Our researcher demonstrated the importance of leveraging our expertise in IoT vulnerability research to enhance the security of these life-critical devices.
