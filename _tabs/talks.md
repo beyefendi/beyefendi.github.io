@@ -52,7 +52,7 @@ AI in Offensive Security: Key Challenges in LLM-Driven Research
 
 <i class="fa-regular fa-calendar"></i> 2025-12-02 | <i class="fa-solid fa-location-dot"></i> Stockholm | <i class="fa fa-bookmark"></i> State of Cybersecurity 2025 | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/heliview-nordics_cybersecurity-artificialintelligence-insiderthreats-activity-7391047743865114625-nLZU) [Link 2](https://www.linkedin.com/posts/heliview-nordics_cybersecurity-ai-digitalresilience-activity-7394301702742491136-x5tI) [Link 3](https://heliview.com/state-cyber-security-sweden/experts/) [Link 4](https://www.linkedin.com/posts/joophermans97_socse2025-activity-7401715727101239296-YOX7) [Link 5](https://www.linkedin.com/posts/heliview-nordics_cybersecurityse-statecyberse-aivsai-activity-7401645452825108480-SEIH)
 
-![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-12-soc.jpg){: w="100" h="100" .left .talk-img}
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-12-state-of-cybersecurity.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren spoke at SoC’25 Conference, presenting a practical framework for building LLM agents for penetration testing. The talk covered common development challenges and his mitigation strategies, followed by a demo of an autonomous, multi‑step web exploitation scenario.
 
 * * *
@@ -357,7 +357,7 @@ Sweden's Threat Intelligence
 
 <i class="fa-regular fa-calendar"></i> 2024-06-14 | <i class="fa-solid fa-location-dot"></i> Stockholm | <i class="fa fa-bookmark"></i> MidNightSunCTF Conference | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/activity-7207606161854889984-dAZo) [Link 2](https://www.linkedin.com/posts/cybercampus-sweden_research-education-innovation-activity-7209522358183723008-9nPD)
 
-![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2024-06-midnightsunctf-1.jpg){: w="100" h="100" .left .talk-img}
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2024-06-midnightsunctf.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren, Head of Hacking Lab, presented his research, Sweden's Threat Intelligence, at the Midnight Sun CTF Conference. He showed examples of vulnerable servers and IoT devices, infected devices, and attacker infrastructures all located in Sweden. He proposed an AI-based method to solve the current phenomena.
 
 * * *
