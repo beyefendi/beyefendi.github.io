@@ -47,7 +47,7 @@ Masters [⛓️‍💥](https://www.diva-portal.org/smash/resultList.jsf?dswid=-
     2024 - | Roni Henareh | KTH
 13. **Design and Evaluation of Memory Analytics Measures for Windows 11 Forensics**  
     2024 - | Edward Norberg | KTH
-14. **Triggering false alarms in computer networks**  
+14. [**Triggering false alarms in computer networks**](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-369645)  
     2024 - 2025 | Peter Daniel | KTH
 15. [**Memory corruption in IoT: Extending PatrIoT to hunt memory corruption bugs**](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-351806)  
     2023 - 2024 | Erik Mickols | KTH
