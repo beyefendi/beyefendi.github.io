@@ -30,3 +30,21 @@
   flex: 0 0 30%;
   padding-left: 20px;
 }
+
+// ...existing code...
+
+
+/* Custom avatar and circle size */
+#avatar {
+  width: 180px !important;
+  height: 180px !important;
+  display: inline-block;
+}
+
+#avatar img {
+  width: 190px !important;
+  height: 190px !important;
+  object-fit: cover;  
+  object-position: 80% 20%;
+}
+
