@@ -4,7 +4,72 @@ icon: fa-solid fa-comment
 order: 2
 ---
 
-Research Vision
+Secure File Transfer in the AI Era – Resilience at Scale
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> 2026-02-10 | <i class="fa-solid fa-location-dot"></i> Webinar | <i class="fa fa-bookmark"></i> IBM | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/upcoming.jpg)
+
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/upcoming.jpg){: w="100" h="100" .left .talk-img}
+
+UPCOMING
+
+<br/>
+
+* * *
+
+
+CORTEX – An LLM-Driven Framework for Enhanced CTI
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> 2026-02-04 | <i class="fa-solid fa-location-dot"></i> KTH Royal Institute of Technology | <i class="fa fa-bookmark"></i> Digital Futures | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/upcoming.jpg)
+
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/upcoming.jpg){: w="100" h="100" .left .talk-img}
+
+UPCOMING
+
+<br/>
+
+* * *
+
+Autonomous Penetration Testing Agents
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> 2026-01-28 | <i class="fa-solid fa-location-dot"></i> KTH Nymble | <i class="fa fa-bookmark"></i> Fusion Carrier Fair | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/upcoming.jpg)
+
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/upcoming.jpg){: w="100" h="100" .left .talk-img}
+
+UPCOMING
+
+<br/>
+
+* * *
+
+AI for Offensive Security - Autonomous Red Teaming
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> 2026-01-22 | <i class="fa-solid fa-location-dot"></i> Tallinn | <i class="fa fa-bookmark"></i> Connect4Cyber | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/upcoming.jpg)
+
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/upcoming.jpg){: w="100" h="100" .left .talk-img}
+
+UPCOMING
+
+<br/>
+
+* * *
+
+Opening Talk of 2026
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> 2026-01-14 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> Swedish Defence University | <i class="fa fa-thumbs-up"></i>
+
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/undisclosed.jpg){: w="100" h="100" .left .talk-img}
+
+Dr. Emre Süren delivered the opening presentation of 2026 in the Hacking Lab to a group of young interns who will play a crucial role in defending the nation in the future. The interns engaged in thought-provoking discussions about the hacking agent demonstrated during the practical session. 
+
+* * *
+
+
+LLMs in Offensive Security
 -----------------------------------
 
 <i class="fa-regular fa-calendar"></i> 2025-12-18 | <i class="fa-solid fa-location-dot"></i> KTH Nymble | <i class="fa fa-bookmark"></i> Cicor Group | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/2025-12-cicor-1jpg)
