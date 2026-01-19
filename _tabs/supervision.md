@@ -68,8 +68,8 @@ Masters [⛓️‍💥](https://www.diva-portal.org/smash/resultList.jsf?dswid=-
 Bachelors
 ---------
 
-1.  Vulnerability Research of Large Language Models (LLMs): Focus on Prompt Injection Using the Swedish Language
-    2026 - | ebecca Ehrnrooth From & Alexander Timsäter
+1.  Vulnerability Research of Large Language Models (LLMs): Focus on Prompt Injection Using the Swedish Language  
+    2026 - | Rebecca Ehrnrooth From & Alexander Timsäter
 2.  [**Smart home infrastructure for penetration testing and national cyber ranges**](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-347732)  
     2024 - 2024 | Gergo Emin Tarcheh & Nina Shamaya | KTH
 3.  [**Collaboration platform for penetration tests enhanced with machine learning**](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-348796)  
