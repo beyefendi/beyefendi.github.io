@@ -10,7 +10,7 @@ Current Grants
 
 *   **Discovering Software Vulnerabilities with LLMs (NAISS 2026/4-49)**
     
-    *2026 – 2022* | [National Academic Infrastructure for Super-computing in Sweden](https://supr.naiss.se/public/project/32722/)
+    *2026 – 2027* | [National Academic Infrastructure for Super-computing in Sweden](https://supr.naiss.se/public/project/32722/)
     PI | 250 GPU-h/month + 1500 GiB Storage
     Project | Discovering Software Vulnerabilities with LLMs
 
