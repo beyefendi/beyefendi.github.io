@@ -5,6 +5,19 @@ order: 6
 ---
 
 
+Administrative Service & Membership
+-----------------------------------
+
+* [**Digital Futures**](https://www.digitalfutures.kth.se/person/emre-suren/)  
+  2025 - current | Faculty
+* [**Stockholm District Court**](https://www.domstol.se/en/stockholms-tingsratt/)  
+  2025 | Digital forensics expert witness | Banking fraud investigation
+* [**EU Commission - MSB**](https://digital-strategy.ec.europa.eu/en/policies/nis-cooperation-group)  
+  2025 | Advisor | Cyber security risks related to connected and automated vehicles
+* [**European Union Agency for Cybersecurity (ENISA)**](https://www.enisa.europa.eu/procurement/cei-list-of-nis-experts)  
+  2023 - current | CEI Listed expert
+
+
 Technical Program Committee
 ---------------------------
 
@@ -29,14 +42,3 @@ Reviewer
 2022 | [**International Journal of Critical Infrastructure Protection (IJCIP)**](https://www.journals.elsevier.com/international-journal-of-critical-infrastructure-protection)  
   
 
-Administrative Service & Membership
------------------------------------
-
-* [**Stockholm District Court**](https://www.domstol.se/en/stockholms-tingsratt/)  
-  2025 - current | Digital forensics expert witness
-* [**Digital Futures**](https://www.digitalfutures.kth.se/person/emre-suren/)  
-  2025 - current | Faculty
-* [**EU Commission - MSB**](https://digital-strategy.ec.europa.eu/en/policies/nis-cooperation-group)  
-  2025 | Advisor | Cyber security risks related to connected and automated vehicles
-* [**European Union Agency for Cybersecurity (ENISA)**](https://www.enisa.europa.eu/procurement/cei-list-of-nis-experts)  
-  2023 - current | CEI Listed expert
