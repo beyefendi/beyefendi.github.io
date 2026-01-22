@@ -47,13 +47,11 @@ UPCOMING
 AI for Offensive Security - Autonomous Red Teaming
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2026-01-22 | <i class="fa-solid fa-location-dot"></i> Tallinn | <i class="fa fa-bookmark"></i> Connect4Cyber | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/upcoming.jpg)
+<i class="fa-regular fa-calendar"></i> 2026-01-22 | <i class="fa-solid fa-location-dot"></i> Tallinn | <i class="fa fa-bookmark"></i> Connect4Cyber | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/2026-01-ncc-ee-1.jpg) [Link 2](/assets/img/talks/2026-01-ncc-ee-2.jpg)
 
-![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/upcoming.jpg){: w="100" h="100" .left .talk-img}
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2026-01-ncc-ee.jpg){: w="100" h="100" .left .talk-img}
 
-UPCOMING
-
-<br/>
+Dr. Emre Süren delivered a pitch at the Connect4Cyber matchmaking event organized by the National Coordination Centre (NCC-EE) of Estonia. He also highlighted his contributions to open-source prompt injection tools and ongoing collaborative red teaming activities at his lab. Responding to attendee interest after the presentations, Dr. Süren demonstrated an autonomous hacking agent in action. 
 
 * * *
 
