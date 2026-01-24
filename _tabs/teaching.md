@@ -7,8 +7,8 @@ order: 5
 Open Course
 ---------------------------------
 
-*  [**Prompt Injection & Jailbreaking 101**](https://www.youtube.com/playlist?list=PLHSZe6NjhTwXy9BPgpJNZhu4bWtTFcGKO)  
-    2026 -  | All levels
+*  [**Prompt Injection & Jailbreaking 101**](https://www.youtube.com/playlist?list=PLHSZe6NjhTwW1jboW_ccfJpVTMJQvi1zW)  
+    2026 -  | All levels, free to join
 
 
 KTH Royal Institute of Technology
