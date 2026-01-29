@@ -21,14 +21,14 @@ PhD
 Masters [⛓️‍💥](https://www.diva-portal.org/smash/resultList.jsf?dswid=-4097&query=emre+süren)
 -------
 
-1.  **Adversarial Evasion of the Two-Phase Guardian Agent**
+1.  **Adversarial Evasion of the Two-Phase Guardian Agent**  
     2026 - | Melvin Sandberg | KTH
-2.  **Cyber Threat Intelligence from Adaptive Deception: Analyzing Attacker Behavior in LLM-Powered Honeypot Environments**    
-    2026 - | Adam Maeedi | KTH  
+2.  **Cyber Threat Intelligence from Adaptive Deception: Analyzing Attacker Behavior in LLM-Powered Honeypot Environments**  
+    2026 - | Adam Maeedi | KTH
 3.  **Adaptive Counter-Intrusion: Optimizing LLM Strategic Deception for High-Interaction Network Honeypots**  
-    2026 - | Jonathan Shahi | KTH   
+    2026 - | Jonathan Shahi | KTH
 4.  **Temporal and Contextual Fidelity: Achieving High-Realism in LLM-Driven Honeypots through Dynamic State Management**  
-    2026 - | Linda Widell | KTH   
+    2026 - | Linda Widell | KTH
 5.  **Ethical hacking of mobile applications commonly used in Sweden**  
     2025 - | Rahila Shamrin | KTH
 6.  **Analyzing and exploiting vulnerabilities in the Raspberry Pi compute module**  
