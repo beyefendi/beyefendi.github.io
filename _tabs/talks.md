@@ -31,14 +31,13 @@ UPCOMING
 
 * * *
 
-Autonomous Penetration Testing Agents
+Cybersecurity Landscape: Current Trends and Near-Future Outlook
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2026-01-28 | <i class="fa-solid fa-location-dot"></i> KTH Nymble | <i class="fa fa-bookmark"></i> Fusion Carrier Fair | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/upcoming.jpg)
+<i class="fa-regular fa-calendar"></i> 2026-01-28 | <i class="fa-solid fa-location-dot"></i> KTH Nymble | <i class="fa fa-bookmark"></i> Fusion Carrier Fair | 
 
-![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/upcoming.jpg){: w="100" h="100" .left .talk-img}
-
-UPCOMING
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2026-01-fusion-research-corner.jpg){: w="100" h="100" .left .talk-img}
+Dr. Emre Süren met with KTH students at the Fusion Career Fair, sharing insights on the future of the cybersecurity ecosystem, the skills in demand, and essential topics students should master before graduation. He recommended platforms for gaining hands-on experience. During his presentation, Dr. Süren demonstrated an AI hacking agent that exploited a chain of vulnerabilities in a website, ultimately granting full system access.
 
 <br/>
 
