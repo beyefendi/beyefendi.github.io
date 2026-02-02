@@ -46,7 +46,7 @@ Dr. Emre Süren met with KTH students at the Fusion Career Fair, sharing insight
 AI for Offensive Security - Autonomous Red Teaming
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2026-01-22 | <i class="fa-solid fa-location-dot"></i> Tallinn | <i class="fa fa-bookmark"></i> Connect4Cyber | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/2026-01-ncc-ee-1.jpg) [Link 2](/assets/img/talks/2026-01-ncc-ee-2.jpg)
+<i class="fa-regular fa-calendar"></i> 2026-01-22 | <i class="fa-solid fa-location-dot"></i> Tallinn | <i class="fa fa-bookmark"></i> Connect4Cyber | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/2026-01-ncc-ee-1.jpg) [Link 2](/assets/img/talks/2026-01-ncc-ee-2.jpg) [Link 3](https://www.ria.ee/sites/default/files/documents/2026-01/C4C-22-1-2026-Pitch-KTH-Royal-Institute-of-Technology.pdf) [Link 4](https://www.flickr.com/photos/riigi-infosusteemi-amet/55065765425/)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2026-01-ncc-ee.jpg){: w="100" h="100" .left .talk-img}
 
