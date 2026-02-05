@@ -24,8 +24,7 @@ CORTEX – An LLM-Driven Framework for Enhanced CTI
 <i class="fa-regular fa-calendar"></i> 2026-02-04 | <i class="fa-solid fa-location-dot"></i> KTH Royal Institute of Technology | <i class="fa fa-bookmark"></i> Digital Futures | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/upcoming.jpg)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/upcoming.jpg){: w="100" h="100" .left .talk-img}
-
-UPCOMING
+Dr. Emre Süren met with faculty at the Digital Futures event to introduce his latest funded project. He explored how large language models (LLMs) can enhance honeypot development by generating realistic responses and integrating seamlessly into emulated services. The discussion covered techniques for producing authentic answers with LLMs and strategies to prevent internal state leaks.
 
 <br/>
 
