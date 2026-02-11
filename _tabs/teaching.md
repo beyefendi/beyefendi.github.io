@@ -7,8 +7,11 @@ order: 5
 Open Course
 ---------------------------------
 
+*  [**AI Agents for Pentesting**](https://youtube.com/playlist?list=PLHSZe6NjhTwUa2jVwQgDM2BTyWVvbmAls)  
+    2026 -  | Public course
+
 *  [**Prompt Injection & Jailbreaking 101**](https://www.youtube.com/playlist?list=PLHSZe6NjhTwW1jboW_ccfJpVTMJQvi1zW)  
-    2026 -  | All levels, free to join
+    2026 -  | Public course
 
 
 KTH Royal Institute of Technology
