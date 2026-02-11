@@ -7,11 +7,11 @@ order: 2
 Secure File Transfer in the AI Era – Resilience at Scale
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2026-02-10 | <i class="fa-solid fa-location-dot"></i> Webinar | <i class="fa fa-bookmark"></i> IBM | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/upcoming.jpg)
+<i class="fa-regular fa-calendar"></i> 2026-02-10 | <i class="fa-solid fa-location-dot"></i> Webinar | <i class="fa fa-bookmark"></i> IBM | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/img_play_secure-file-transfer-in-the-ai-era-resilience-activity-7427285403977732096-kSOt) [Link2](https://video.ibm.com/recorded/134696927) 
 
-![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/upcoming.jpg){: w="100" h="100" .left .talk-img}
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2026-02-ibm.jpg){: w="100" h="100" .left .talk-img}
 
-UPCOMING
+IBM hosted Dr. Emre Süren for a webinar on secure file transfer in the era of artificial intelligence. The main message was straightforward: in a world where AI relies on vast amounts of constantly moving data, secure and resilient file transfer is no longer merely a feature—it has become critical infrastructure. Dr. Süren delved into the increasing significance of data in transit, the dangers posed by outdated protocols, the principles of zero trust, compliance requirements, and the necessity of high-speed, encrypted, and automated data movement for contemporary enterprises. 
 
 <br/>
 
