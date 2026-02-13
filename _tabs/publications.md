@@ -28,16 +28,13 @@ Peer-Reviewed Journal Articles
 Conference Proceedings
 ----------------------
 
-1.  P. Daniel, **E. Suren**, T. Sommestad.  
-    **Malicious or Benign: Fine-tuning detection behaviors for Living-off-the-Land Windows Binaries.**  
-    _Arxiv_, Will be Submitted, August 2025.
-2.  S. Hacks, C. Artho, R. Guanciale, R. Künnemann, D. Malakhova, **Emre Süren.**  
+1.  S. Hacks, C. Artho, R. Guanciale, R. Künnemann, D. Malakhova, **Emre Süren.**  
     **FreeCAT - A Framework for Resilience and Evolution by Code Analysis Tools.**  
     _International Conference on Evaluation and Modeling Methods for Systems Analysis and Development_, Submitted, March 2025.
-3.  J. Weiss, L. Nordström, P. Hilber, **E. Suren**.  
+2.  J. Weiss, L. Nordström, P. Hilber, **E. Suren**.  
     **Procedural Generation of Communication Networks in Power Systems.**  
     _16th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy 2025)_, Submitted, December 2024.
-4.  Ciklabakkal, Ege and Donmez, Ataberk and Erdemir, Mert and **Suren, Emre** and Yilmaz, Mert Kaan and Angin, Pelin.  
+3.  Ciklabakkal, Ege and Donmez, Ataberk and Erdemir, Mert and **Suren, Emre** and Yilmaz, Mert Kaan and Angin, Pelin.  
     **ARTEMIS: An intrusion detection system for MQTT attacks in Internet of Things.**  
     _38th Symposium on Reliable Distributed Systems (SRDS'19)_, 369-3692, October 2019.
 {: reversed="reversed"}
