@@ -8,10 +8,10 @@ Open Course
 ---------------------------------
 
 *  [**AI Agents for Pentesting**](https://youtube.com/playlist?list=PLHSZe6NjhTwUa2jVwQgDM2BTyWVvbmAls)  
-    2026 -  | Public course
+    2026 -
 
 *  [**Prompt Injection & Jailbreaking 101**](https://www.youtube.com/playlist?list=PLHSZe6NjhTwW1jboW_ccfJpVTMJQvi1zW)  
-    2026 -  | Public course
+    2026 -
 
 
 KTH Royal Institute of Technology
