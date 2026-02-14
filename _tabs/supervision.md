@@ -51,7 +51,7 @@ Masters [⛓️‍💥](https://www.diva-portal.org/smash/resultList.jsf?dswid=-
     2024 - | Roni Henareh | KTH
 15. **Design and Evaluation of Memory Analytics Measures for Windows 11 Forensics**  
     2024 - | Edward Norberg | KTH
-16. [**A Penetration Testing and Vulnerability Analysis Approach: Examining Security Risks, Vulnerabilities, and Mitigation Strategies in Swedish Banking, Parking, Delivery, Transport, and Healthcare Apps**](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-375905), 2025 
+16. [**A Penetration Testing and Vulnerability Analysis Approach: Examining Security Risks, Vulnerabilities, and Mitigation Strategies in Swedish Banking, Parking, Delivery, Transport, and Healthcare Apps**](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-375905)  
     2025 - | Rahila Kundan | KTH
 17. [**What are the most effective static analysis, dynamic analysis, and reverse engineering methodologies for identifying and evaluating security vulnerabilities in mobile applications?**](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-375340)  
     2025 - 2025 | Yamini Balannagari | KTH
