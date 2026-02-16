@@ -4,6 +4,19 @@ icon: fa-solid fa-comment
 order: 2
 ---
 
+Undisclosed Event
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> 2026-03-02 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> Three Letters Agency | <i class="fa fa-thumbs-up"></i>
+
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/undisclosed.jpg){: w="100" h="100" .left .talk-img}
+
+UPCOMING SOON
+
+<br/>
+<br/>
+* * *
+
 Secure File Transfer in the AI Era – Resilience at Scale
 -----------------------------------
 
@@ -13,20 +26,15 @@ Secure File Transfer in the AI Era – Resilience at Scale
 
 IBM hosted Dr. Emre Süren for a webinar on secure file transfer in the era of artificial intelligence. The main message was straightforward: in a world where AI relies on vast amounts of constantly moving data, secure and resilient file transfer is no longer merely a feature—it has become critical infrastructure. Dr. Süren delved into the increasing significance of data in transit, the dangers posed by outdated protocols, the principles of zero trust, compliance requirements, and the necessity of high-speed, encrypted, and automated data movement for contemporary enterprises. 
 
-<br/>
-
 * * *
-
 
 CORTEX – An LLM-Driven Framework for Enhanced CTI
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2026-02-04 | <i class="fa-solid fa-location-dot"></i> KTH Royal Institute of Technology | <i class="fa fa-bookmark"></i> Digital Futures | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/upcoming.jpg)
+<i class="fa-regular fa-calendar"></i> 2026-02-04 | <i class="fa-solid fa-location-dot"></i> KTH Royal Institute of Technology | <i class="fa fa-bookmark"></i> Digital Futures | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.digitalfutures.kth.se/project/cortex-an-llm-driven-framework-for-enhanced-cti/)
 
-![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/upcoming.jpg){: w="100" h="100" .left .talk-img}
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2026-02-digital-futures.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren met with faculty at the Digital Futures event to introduce his latest funded project. He explored how large language models (LLMs) can enhance honeypot development by generating realistic responses and integrating seamlessly into emulated services. The discussion covered techniques for producing authentic answers with LLMs and strategies to prevent internal state leaks.
-
-<br/>
 
 * * *
 
@@ -37,8 +45,6 @@ Cybersecurity Landscape: Current Trends and Near-Future Outlook
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2026-01-fusion-research-corner.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren met with KTH students at the Fusion Career Fair, sharing insights on the future of the cybersecurity ecosystem, the skills in demand, and essential topics students should master before graduation. He recommended platforms for gaining hands-on experience. During his presentation, Dr. Süren demonstrated an AI hacking agent that exploited a chain of vulnerabilities in a website, ultimately granting full system access.
-
-<br/>
 
 * * *
 
@@ -63,7 +69,6 @@ Opening Talk of 2026
 Dr. Emre Süren delivered the opening presentation of 2026 in the Hacking Lab to a group of young interns who will play a crucial role in defending the nation in the future. The interns engaged in thought-provoking discussions about the hacking agent demonstrated during the practical session. 
 
 * * *
-
 
 LLMs in Offensive Security
 -----------------------------------
