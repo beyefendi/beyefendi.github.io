@@ -4,6 +4,19 @@ icon: fa-solid fa-comment
 order: 2
 ---
 
+Offensive AI Agents
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> 2026-03-11 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> KTH Executive Program | <i class="fa fa-thumbs-up"></i>
+
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/upcoming.jpg){: w="100" h="100" .left .talk-img}
+
+UPCOMING SOON
+
+<br/>
+<br/>
+* * *
+
 Undisclosed Event
 -----------------------------------
 
