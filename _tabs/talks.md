@@ -17,10 +17,23 @@ UPCOMING SOON
 <br/>
 * * *
 
+An Offensive Security Researcher in AI Era
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> 2026-03-04 | <i class="fa-solid fa-location-dot"></i> KTH Innovation Hub | <i class="fa fa-bookmark"></i> KTH EECS Career Fair | <i class="fa fa-thumbs-up"></i>
+
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2026-03-eecs-career-fair.jpg){: w="100" h="100" .left .talk-img}
+
+Dr. Emre Süren met with KTH students at the KTH EECS Career Fair, sharing insights on being a cybersecurity researcher in AI era.
+Dr. Süren demonstrated an AI hacking agent that exploited a series of vulnerabilities in a website, ultimately granting full system access.
+He also shed light to the future of the cybersecurity ecosystem, the skills in demand, and essential topics students should master before graduation. 
+
+* * *
+
 Undisclosed Event
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2026-03-02 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> Three Letters Agency | <i class="fa fa-thumbs-up"></i>
+<i class="fa-regular fa-calendar"></i> 2026-03-02 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> International Government Entities | <i class="fa fa-thumbs-up"></i>
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/undisclosed.jpg){: w="100" h="100" .left .talk-img}
 
@@ -54,7 +67,7 @@ Dr. Emre Süren met with faculty at the Digital Futures event to introduce his l
 Cybersecurity Landscape: Current Trends and Near-Future Outlook
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2026-01-28 | <i class="fa-solid fa-location-dot"></i> KTH Nymble | <i class="fa fa-bookmark"></i> Fusion Carrier Fair | 
+<i class="fa-regular fa-calendar"></i> 2026-01-28 | <i class="fa-solid fa-location-dot"></i> KTH Nymble | <i class="fa fa-bookmark"></i> Fusion Career Fair | 
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2026-01-fusion-research-corner.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren met with KTH students at the Fusion Career Fair, sharing insights on the future of the cybersecurity ecosystem, the skills in demand, and essential topics students should master before graduation. He recommended platforms for gaining hands-on experience. During his presentation, Dr. Süren demonstrated an AI hacking agent that exploited a chain of vulnerabilities in a website, ultimately granting full system access.
