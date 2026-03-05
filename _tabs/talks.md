@@ -25,7 +25,7 @@ An Offensive Security Researcher in AI Era
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2026-03-eecs-career-fair.jpg){: w="100" h="100" .left .talk-img}
 
 Dr. Emre Süren met with KTH students at the KTH EECS Career Fair, sharing insights on being a cybersecurity researcher in AI era.
-Dr. Süren demonstrated an AI hacking agent that exploited a series of vulnerabilities in a website, ultimately granting full system access.
+Dr. Süren demonstrated an autonomous hacker agent that exploited a series of vulnerabilities in a website, ultimately granting full system access.
 He also shed light to the future of the cybersecurity ecosystem, the skills in demand, and essential topics students should master before graduation. 
 
 * * *
