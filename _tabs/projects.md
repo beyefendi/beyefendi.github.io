@@ -39,13 +39,7 @@ Looking for Partners
     *2025 – 2029* | [KTH Royal Institute of Technology - International Partner University](https://www.kth.se/en/om/internationellt/strategiska-partneruniversitet/nyheter/sok-finansiering-for-att-anstalla-en-gemensam-doktorand-med-ett-internationellt-partneruniversitet-1.1154149)
     PI | 4.4M SEK
     Project | AI-based honeypot architectures for threat intelligence
-    
-*   **DFIRent - Next-generation AI-assisted Digital Forensics Tools**
-    
-    *2025 – 2029* | [European Union - Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-6-civil-security-for-society_horizon-2025_en.pdf)
-    WP leader | 5M € total / 0.7M € our share
-    Work package | AI-based digital forensics on current operating systems, memory, and IoT devices
-    
+        
 
 Completed
 ---------
