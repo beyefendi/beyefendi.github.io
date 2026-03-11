@@ -9,7 +9,7 @@ Offensive AI Agents
 
 <i class="fa-regular fa-calendar"></i> 2026-03-11 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> KTH Executive Business School | <i class="fa fa-thumbs-up"></i>
 
-![Dr. Emre Süren, Royal Hacking Lab, KTH Executive Business School, Offensive AI Agents](/assets/img/talks/2026-03-executive-business-school.png){: w="100" h="100" .left .talk-img}
+![Dr. Emre Süren, Royal Hacking Lab, KTH Executive Business School, Offensive AI Agents](/assets/img/talks/2026-03-kth-executive-school.jpg){: w="100" h="100" .left .talk-img}
 
 Dr. Emre Süren hosted the KTH Executive Business School, led by Ulf Änggård. Dr. Süren showcased hands-on AI agent usage in vulnerability discovery for web applications. Representatives from top 30 companies listed on the Swedish stock market engaged in discussions on how to create AI agents end to end.
 * * *
@@ -30,9 +30,9 @@ He also shed light to the future of the cybersecurity ecosystem, the skills in d
 Taking Down Adversarial Infrastructure
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2026-03-02 | <i class="fa-solid fa-location-dot"></i> KTH ReaktorHallen | <i class="fa fa-bookmark"></i> Swedish & NATO Armies | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/2026-03-sact-1.png) [Link 2](/assets/img/talks/2026-03-sact-2.png)
+<i class="fa-regular fa-calendar"></i> 2026-03-02 | <i class="fa-solid fa-location-dot"></i> KTH ReaktorHallen | <i class="fa fa-bookmark"></i> Swedish & NATO Armies | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/2026-03-sact-1.jpg) [Link 2](/assets/img/talks/2026-03-sact-2.jpg)
 
-![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH ReaktorHallen, Taking Down Adversarial Infrastructure](/assets/img/talks/2026-03-sact-3.png){: w="100" h="100" .left .talk-img}
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH ReaktorHallen, Taking Down Adversarial Infrastructure](/assets/img/talks/2026-03-sact-3.jpg){: w="100" h="100" .left .talk-img}
 
 Dr. Süren demonstrated his threat intelligence research covering the Cyber Criminal Neutralization Agent, which showcased taking down adversarial infrastructure (Sentinel) targeting critical infrastructure in the region. Dr. Süren provided a briefing to Admiral Pierre Vandier regarding how AI can be used as a counter-attack to deter threat actors.
 
