@@ -30,17 +30,15 @@ He also shed light to the future of the cybersecurity ecosystem, the skills in d
 
 * * *
 
-Undisclosed Event
+Taking Down Adversarial Infrastructure
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2026-03-02 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> International Government Entities | <i class="fa fa-thumbs-up"></i>
+<i class="fa-regular fa-calendar"></i> 2026-03-02 | <i class="fa-solid fa-location-dot"></i> KTH ReaktorHallen | <i class="fa fa-bookmark"></i> Swedish & NATO Armies | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/2026-03-sact-1.png) [Link 2](/assets/img/talks/2026-03-sact-2.png)
 
-![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/undisclosed.jpg){: w="100" h="100" .left .talk-img}
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH ReaktorHallen, Taking Down Adversarial Infrastructure](/assets/img/talks/2026-03-sact-3.png){: w="100" h="100" .left .talk-img}
 
-UPCOMING SOON
+Dr. Süren demonstrated his threat intelligence research covering the Cyber Criminal Neutralization Agent, which showcased taking down adversarial infrastructure (Sentinel) targeting critical infrastructure in the region. Dr. Süren provided a briefing to Admiral Pierre Vandier regarding how AI can be used as a counter-attack to deter threat actors.
 
-<br/>
-<br/>
 * * *
 
 Secure File Transfer in the AI Era – Resilience at Scale
