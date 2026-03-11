@@ -7,14 +7,11 @@ order: 2
 Offensive AI Agents
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2026-03-11 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> KTH Executive Program | <i class="fa fa-thumbs-up"></i>
+<i class="fa-regular fa-calendar"></i> 2026-03-11 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> KTH Executive Business School | <i class="fa fa-thumbs-up"></i>
 
-![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/upcoming.jpg){: w="100" h="100" .left .talk-img}
+![Dr. Emre Süren, Royal Hacking Lab, KTH Executive Business School, Offensive AI Agents](/assets/img/talks/2026-03-executive-business-school.png){: w="100" h="100" .left .talk-img}
 
-UPCOMING SOON
-
-<br/>
-<br/>
+Dr. Emre Süren hosted the KTH Executive Business School, led by Ulf Änggård. Dr. Süren showcased hands-on AI agent usage in vulnerability discovery for web applications. Representatives from top 30 companies listed on the Swedish stock market engaged in discussions on how to create AI agents end to end.
 * * *
 
 An Offensive Security Researcher in AI Era
