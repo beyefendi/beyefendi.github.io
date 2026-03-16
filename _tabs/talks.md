@@ -4,7 +4,7 @@ icon: fa-solid fa-comment
 order: 2
 ---
 
-Offensive AI Agents
+Developing Offensive AI Agents
 -----------------------------------
 
 <i class="fa-regular fa-calendar"></i> 2026-03-11 | <i class="fa-solid fa-location-dot"></i> Royal Hacking Lab | <i class="fa fa-bookmark"></i> KTH Executive Business School | <i class="fa fa-thumbs-up"></i>
