@@ -8,6 +8,8 @@ order: 6
 Administrative Service & Membership
 -----------------------------------
 
+* [Utställningen Unga Forskares](https://ungaforskare.se/utstallningen/)  
+  2026 | [Digitaljuryledamot](../assets/img/services/2026-unga-forskare-jury.pdf)
 * [**Digital Futures**](https://www.digitalfutures.kth.se/person/emre-suren/)  
   2025 - current | Faculty
 * [**Stockholm District Court**](https://www.domstol.se/en/stockholms-tingsratt/)  
