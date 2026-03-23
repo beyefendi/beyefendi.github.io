@@ -1,8 +1,7 @@
 ## Announcements
 
-*   Join my [team](https://undutmaning.ctfd.io/teams/198) at Undutmaning CTF
 *   Compilation of resources on [LLM Security](https://github.com/beyefendi/awesome-llm-security)
-*   Join my latest course, Prompt Injection & Jailbreaking [online](https://www.youtube.com/playlist?list=PLHSZe6NjhTwW1jboW_ccfJpVTMJQvi1zW)
+*   Join my latest courses, [AI Agents for Pentesting](https://youtube.com/playlist?list=PLHSZe6NjhTwUa2jVwQgDM2BTyWVvbmAls) and Prompt Injection & Jailbreaking [online](https://www.youtube.com/playlist?list=PLHSZe6NjhTwW1jboW_ccfJpVTMJQvi1zW)
 *   Thesis students! You may find all my open thesis projects [here.](https://lab.cybercampus.se/docs/thesis/?site)
 *   Looking for a Professor as a formal supervisor for my prospective PhD students
 *   Seeking co-researchers/authors for our ongoing research/paper on LLM-based honeypots
