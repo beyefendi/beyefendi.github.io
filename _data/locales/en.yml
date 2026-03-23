@@ -1,1 +1,17 @@
 meta: Powered by some Opensource
+
+# Tab names for page title (Chirpy uses these for <title> tag)
+# In other words, it does not use the title from the tab file (page.title).
+tabs:
+  home: Home
+  categories: Categories
+  tags: Tags
+  archives: Archives
+  about: About
+  talks: Talks
+  publications: Publications
+  cv: CV
+  projects: Projects
+  supervision: Supervision
+  teaching: Teaching
+  services: Services
