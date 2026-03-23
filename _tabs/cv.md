@@ -1,4 +1,5 @@
 ---
+title: CV
 # the default layout is 'page'
 icon: fa-solid fa-award
 order: 7

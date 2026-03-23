@@ -1,4 +1,5 @@
 ---
+title: Teaching
 # the default layout is 'page'
 icon: fa-solid fa-person-chalkboard
 order: 5

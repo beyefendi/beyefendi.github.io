@@ -1,4 +1,5 @@
 ---
+title: Supervision
 # the default layout is 'page'
 icon: fa-solid fa-users
 order: 4

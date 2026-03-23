@@ -1,4 +1,5 @@
 ---
+title: Services
 # the default layout is 'page'
 icon: fa-solid fa-handshake-angle
 order: 6

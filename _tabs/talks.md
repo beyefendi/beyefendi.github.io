@@ -1,4 +1,5 @@
 ---
+title: Talks
 # the default layout is 'page'
 icon: fa-solid fa-comment
 order: 2

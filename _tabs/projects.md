@@ -1,4 +1,5 @@
 ---
+title: Projects
 # the default layout is 'page'
 icon: fa-solid fa-sack-dollar
 order: 3
