@@ -16,6 +16,62 @@
   object-fit: cover;
 }
 
+/* talks.html metadata color coding */
+.talk-date {
+  color: #0284c7;
+  font-weight: 500;
+}
+
+.talk-location {
+  color: #7c3aed;
+  font-weight: 500;
+}
+
+.talk-venue {
+  color: #059669;
+  font-weight: 600;
+}
+
+[data-mode="dark"] .talk-date {
+  color: #38bdf8;
+}
+
+[data-mode="dark"] .talk-location {
+  color: #a78bfa;
+}
+
+[data-mode="dark"] .talk-venue {
+  color: #34d399;
+}
+
+/* publications.html color coding (same palette as talks) */
+.pub-authors {
+  color: #7c3aed;
+  font-weight: 500;
+}
+
+.pub-title {
+  color: #059669;
+  font-weight: 600;
+}
+
+.pub-venue {
+  color: #0284c7;
+  font-weight: 500;
+}
+
+[data-mode="dark"] .pub-authors {
+  color: #a78bfa;
+}
+
+[data-mode="dark"] .pub-title {
+  color: #34d399;
+}
+
+[data-mode="dark"] .pub-venue {
+  color: #38bdf8;
+}
+
 /* index.html divide page into two columns */
 .home-row {
   display: flex;
