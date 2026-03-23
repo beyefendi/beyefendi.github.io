@@ -104,7 +104,7 @@ Dr. Emre Süren delivered the opening presentation of 2026 in the Hacking Lab to
 LLMs in Offensive Security
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> 2025-12-18 | <i class="fa-solid fa-location-dot"></i> KTH Nymble | <i class="fa fa-bookmark"></i> Cicor Group | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/2025-12-cicor-1jpg)
+<i class="fa-regular fa-calendar"></i> 2025-12-18 | <i class="fa-solid fa-location-dot"></i> KTH Nymble | <i class="fa fa-bookmark"></i> Cicor Group | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/img/talks/2025-12-cicor-1.jpg)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-12-cicor.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren delivered an interactive talk at the Christmas event organized by Cicor Group for its employees. The hands-on workshop demonstrated an autonomous hacking agent, sparking engaging conversations among attendees. Additionally, Dr. Süren introduced his new research grant in Cyber Threat Intelligence and discussed emerging challenges in Sweden's Internet.
