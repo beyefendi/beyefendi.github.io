@@ -8,6 +8,17 @@ order: 2
 Human vs. AI Vulnerability Researcher
 -----------------------------------
 
+Offensive AI Agents: Briefing for US Delegation
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-03-26</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Royal Hacking Lab</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">US Government & Venture Capital Delegation</span> | <i class="fa fa-thumbs-up"></i>
+
+![Dr. Emre Süren, Royal Hacking Lab, US delegation, Swedish Embassy in the US, Offensive AI agents, Agentic operations, Offensive security](/assets/img/talks/2026-03-us-embassy-delegation.png){: w="100" h="100" .left .talk-img}
+
+Dr. Emre Süren presented to a delegation of venture capital leaders and representatives from the U.S. Government’s foreign affairs community visiting Sweden, coordinated with the **Swedish Embassy in the US**. He showcased his current research on **offensive-operation agents**, comparing modern agentic workflows with manual exploitation techniques from earlier eras. The discussion expanded into practical use cases for **personal agents** that he uses to manage day-to-day work and life.
+
+* * *
+
 <i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-03-18</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Royal Hacking Lab</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Royal Swedish Academy of War Sciences</span> | <i class="fa fa-thumbs-up"></i>
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security, Human vs. AI vulnerability research, Royal Swedish Academy of War Sciences](/assets/img/talks/undisclosed.jpg){: w="100" h="100" .left .talk-img}
