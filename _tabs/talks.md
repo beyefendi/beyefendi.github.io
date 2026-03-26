@@ -5,9 +5,6 @@ icon: fa-solid fa-comment
 order: 2
 ---
 
-Human vs. AI Vulnerability Researcher
------------------------------------
-
 Offensive AI Agents: Briefing for US Delegation
 -----------------------------------
 
@@ -18,6 +15,9 @@ Offensive AI Agents: Briefing for US Delegation
 Dr. Emre Süren presented to a delegation of venture capital leaders and representatives from the U.S. Government’s foreign affairs community visiting Sweden, coordinated with the **Swedish Embassy in the US**. He showcased his current research on **offensive-operation agents**, comparing modern agentic workflows with manual exploitation techniques from earlier eras. The discussion expanded into practical use cases for **personal agents** that he uses to manage day-to-day work and life.
 
 * * *
+
+Human vs. AI Vulnerability Researcher
+-----------------------------------
 
 <i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-03-18</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Royal Hacking Lab</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Royal Swedish Academy of War Sciences</span> | <i class="fa fa-thumbs-up"></i>
 
@@ -215,22 +215,22 @@ Dr. Emre Süren, Head of **Royal Hacking Lab**, presented his recent research on
 * * *
 
 
-Dr. Süren's Research Vision
+Dr. Süren's Research Journey
 -----------------------------------
 
 <i class="fa-regular fa-calendar"></i> <span class="talk-date">2025-10-09</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Royal Hacking Lab</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">KTH Executive Program</span> | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.linkedin.com/posts/agneta-rinman-b2555428_joinindustrychangemakers-cybersecurity-digitalresilience-activity-7382090922580205568-Pl1r) [Link 2](https://www.linkedin.com/posts/kth-executive-school-ab_transformingindustrytogether-joinindustrychangemakers-activity-7382082248818286593-3ec1) [Link 3](https://kthexecutiveschool.se/2025/10/17/leading-change-at-speed-make-room-to-turn-2/)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-10-kth-executive-school.jpg){: w="100" h="100" .left .talk-img}
-Dr. Emre Süren, Head of Royal Hacking Lab, delivered a lecture to the Executive School on offensive security and artificial intelligence. He showcased impactful lab research, including car hacking demonstrations and prompt injection attacks targeting generative AI models. The session also highlighted the lab’s first research grant, which will fund a new project on cyber threat intelligence to detect early signals of AI-driven attacks against Sweden’s critical infrastructure.
+Dr. Emre Süren, Head of Royal Hacking Lab, delivered a lecture to the **Executive School** on offensive security and artificial intelligence. He showcased impactful lab research, including car hacking demonstrations and **prompt injection** attacks targeting generative AI models. The session also highlighted the his **first research grant**, which will fund a new project on **cyber threat intelligence** to detect early signals of AI-driven attacks against Sweden’s critical infrastructure.
 
 * * *
 
-Dr. Süren's Research Vision
+Contribution to the National Security
 -----------------------------------
 
 <i class="fa-regular fa-calendar"></i> <span class="talk-date">2025-10-08</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Royal Hacking Lab</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">KTH Board</span> | <i class="fa fa-thumbs-up"></i> Link 1
 
-Dr. Emre Süren, Head of Royal Hacking Lab, hosted the KTH University Board and presented the lab’s mission, highlighting how its research advances society, national security, the economy, and local industry. He announced the inaugural research grant awarded to the lab, enabling a new project focused on cyber threat intelligence to detect early signals of cyber attacks targeting Swedish critical infrastructures.
+Dr. Emre Süren, Head of Royal Hacking Lab, hosted the **KTH University Board** and presented the lab’s mission, highlighting how its research advances society, national security, the economy, and local industry. He announced the **inaugural research grant** awarded to him, enabling a new project focused on **cyber threat intelligence** to detect early signals of cyber attacks targeting **Swedish critical infrastructures**.
 
 * * *
 
@@ -241,7 +241,7 @@ Dr. Süren's Research Vision
 <i class="fa-regular fa-calendar"></i> <span class="talk-date">2025-10-06</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Royal Hacking Lab</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">KTH Innovation</span> | <i class="fa fa-thumbs-up"></i> Link 1
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-10-kth-innovation.jpg){: w="100" h="100" .left .talk-img}
-Dr. Emre Süren, Head of Royal Hacking Lab, hosted the KTH Innovation team and presented the lab’s recent popular research and forward-looking project proposals, highlighting innovative approaches in vulnerability research.
+Dr. Emre Süren, Head of Royal Hacking Lab, hosted the **KTH Innovation** team and presented the lab’s recent popular research and forward-looking project proposals, highlighting innovative approaches in vulnerability research.
 
 * * *
 
