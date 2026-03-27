@@ -5,7 +5,7 @@ icon: fa-solid fa-comment
 order: 2
 ---
 
-Offensive AI Agents: Briefing for US Delegation
+Offensive AI Agents: How they operate?
 -----------------------------------
 
 <i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-03-26</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Royal Hacking Lab</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">US Government & Venture Capital Delegation</span> | <i class="fa fa-thumbs-up"></i>
