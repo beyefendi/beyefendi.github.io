@@ -9,6 +9,12 @@ order: 3
 Current Grants
 --------------
 
+*   **Adversarial Attacks on MCP servers with Guardian Agents (KTH-RPROJ-0146472)**
+    
+    *2026 – 2026* | [Digital Futures - Summer Research Internship Program](https://www.digitalfutures.kth.se/call/digital-futures-summer-research-internship-programme-sri/)
+    PI | 120,000 SEK (~10,968 €)
+    Project | Discovering vulnerabilities in MCP servers protected with Guardrails
+
 *   **Discovering Software Vulnerabilities with LLMs (NAISS 2026/4-49)**
     
     *2026 – 2027* | [National Academic Infrastructure for Super-computing in Sweden](https://supr.naiss.se/public/project/32722/)
@@ -19,7 +25,7 @@ Current Grants
 
     *2026 – 2027* | [Digital Futures - Research Pairs](https://www.digitalfutures.kth.se/call/open-call-research-pairs-projects/)
     PI | 2,000,000 SEK (~0.18M €)
-    Project | [AI based Cyber Threat Intelligence research](https://www.digitalfutures.kth.se/project/cortex-an-llm-driven-framework-for-enhanced-cti/)     
+    Project | [AI based Cyber Threat Intelligence research](https://www.digitalfutures.kth.se/project/cortex-an-llm-driven-framework-for-enhanced-cti/) [(LinkedIn)](https://www.linkedin.com/posts/royal-hacking-lab_exciting-news-our-researcher-dr-activity-7385348213190426624-DWOF)    
 
 Applied
 -------
