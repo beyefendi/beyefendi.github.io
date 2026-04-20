@@ -126,7 +126,7 @@ Dr. Emre Süren delivered an interactive talk at the Christmas event organized b
 Digital Forensics Expertise Testimony
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> <span class="talk-date">2025-12-12</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Stockholm</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Criminal Court (Tingsrätt)</span> | <i class="fa fa-thumbs-up"></i> [Link 1](https://youtu.be/LH61HKHNaIU?si=Jkw5QU9UfCut5EiN))
+<i class="fa-regular fa-calendar"></i> <span class="talk-date">2025-12-12</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Stockholm</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Criminal Court (Tingsrätt)</span> | <i class="fa fa-thumbs-up"></i> [Link 1](https://youtu.be/LH61HKHNaIU?si=Jkw5QU9UfCut5EiN)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-12-court.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren served as an expert witness for the **Stockholm Criminal Court** in a high-profile case involving a victim and one of Sweden's largest banks. Based on **forensic analysis** of the defendant's computer, he compiled a detailed report identifying the parties responsible at each stage of the incident. Through his expert testimony, Dr. Süren demonstrated his commitment to public service by contributing his cybersecurity expertise to the justice system.
