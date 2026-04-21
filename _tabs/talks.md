@@ -5,6 +5,17 @@ icon: fa-solid fa-comment
 order: 2
 ---
 
+Securing AI Infrastructures
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-04-21</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Royal Hacking Lab</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Swedish Defence Materiel Administration (FMV)</span> | <i class="fa fa-thumbs-up"></i>
+
+![Dr. Emre Süren, Royal Hacking Lab, FMV, Offensive AI agents, Agentic infrastructures, Offensive security](/assets/img/talks/2026-04-fmv.jpg){: w="100" h="100" .left .talk-img}
+
+Dr. Emre Süren gave a presentation to security unit from FMV, sharing insights from his experience in IoT hacking and detailing his current research into AI-enabled cyber operations. The engaging two-hour session featured interactive discussions about how lab infrastructure and distributed cybersecurity resources across the country can be leveraged more effectively. The conversation also explored practical strategies for launching **AI-driven** small-scale research projects at KTH that can directly support FMV’s operational needs.
+
+* * *
+
 Offensive AI Agents: How they operate?
 -----------------------------------
 
