@@ -5,6 +5,17 @@ icon: fa-solid fa-comment
 order: 2
 ---
 
+Discovering Vulnerabilities in Agentic Infrastructures
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-04-23</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Stockholm</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Connect4Cyber</span> | <i class="fa fa-thumbs-up"></i>
+
+![Dr. Emre Süren, Connect4Cyber, Stockholm, Agentic infrastructures, Offensive AI security](/assets/img/talks/2026-04-connect4cyber-stockholm.jpg){: w="100" h="100" .left .talk-img}
+
+Dr. Emre Süren delivered a pitch at the Connect4Cyber matchmaking event organized by the National Coordination Centre (NCC-SE) of Sweden. He engaged many in the audience and highlighted his perspectives on Claude Mythos, his discoveries in real-world agentic systems, and current agent development practices.
+
+* * *
+
 Securing AI Infrastructures
 -----------------------------------
 
@@ -12,7 +23,7 @@ Securing AI Infrastructures
 
 ![Dr. Emre Süren, Royal Hacking Lab, FMV, Offensive AI agents, Agentic infrastructures, Offensive security](/assets/img/talks/2026-04-fmv.jpg){: w="100" h="100" .left .talk-img}
 
-Dr. Emre Süren gave a presentation to security unit from FMV, sharing insights from his experience in IoT hacking and detailing his current research into AI-enabled cyber operations. The engaging two-hour session featured interactive discussions about how lab infrastructure and distributed cybersecurity resources across the country can be leveraged more effectively. The conversation also explored practical strategies for launching **AI-driven** small-scale research projects at KTH that can directly support FMV’s operational needs.
+Dr. Emre Süren gave a presentation to security unit from FMV, sharing insights from his experience in IoT hacking and detailing his current research into AI-enabled cyber operations. The engaging two-hour session featured interactive discussions about how lab infrastructure and distributed cybersecurity resources across the country can be leveraged more effectively.
 
 * * *
 
