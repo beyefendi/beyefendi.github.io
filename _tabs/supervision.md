@@ -22,7 +22,7 @@ PhD
 Masters [⛓️‍💥](https://www.diva-portal.org/smash/resultList.jsf?dswid=-4097&query=emre+süren)
 -------
 
-1.  **Enhancing LLM responses for Honeypots tailored to Industrial Control Protocols**
+1.  **Enhancing LLM responses for Honeypots tailored to Industrial Control Protocols**  
     2026 - | Max Engman | KTH
 2.  **Adversarial Evasion of the Two-Phase Guardian Agent**  
     2026 - | Melvin Sandberg | KTH
