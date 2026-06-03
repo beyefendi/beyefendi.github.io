@@ -104,3 +104,73 @@
   object-position: 80% 20%;
 }
 
+/* summer school timeline blog post */
+.ss-timeline {
+  position: relative;
+  padding-left: 1.75rem;
+  border-left: 3px solid #0284c7;
+  margin: 2rem 0 1rem;
+}
+
+.ss-timeline-entry {
+  position: relative;
+  margin-bottom: 2.5rem;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: calc(-1.75rem - 7.5px);
+    top: 0.4rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #0284c7;
+    border: 2px solid var(--main-bg-color);
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.ss-timeline-date {
+  color: #0284c7;
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+
+.ss-timeline-title {
+  font-weight: 600;
+  font-size: 1.15rem;
+  margin: 0.15rem 0 0.75rem;
+}
+
+.ss-timeline-photos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1.25rem;
+
+  img {
+    flex: 1 1 calc(50% - 0.5rem);
+    min-width: 240px;
+    max-width: 100%;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+}
+
+[data-mode='dark'] {
+  .ss-timeline {
+    border-left-color: #38bdf8;
+  }
+
+  .ss-timeline-entry::before {
+    background: #38bdf8;
+  }
+
+  .ss-timeline-date {
+    color: #38bdf8;
+  }
+}
+
