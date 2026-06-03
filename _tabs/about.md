@@ -4,7 +4,7 @@ icon: fa-solid fa-user-graduate
 order: 10
 ---
 
-I am an offensive security researcher specializing in **Generative AI vulnerabilities**, the **use of LLMs for vulnerability discovery**, and **AI-driven cyber threat intelligence**. My work focuses on research with national-security relevance and contributions to the open-source community. I currently teach the crash course *Practical Adversarial GenAI for Red Teamers*, and I have previously taught Digital Forensics.
+I am an offensive security researcher specializing in **Generative AI security**, the **use of LLMs for vulnerability discovery**, and **AI-driven cyber threat intelligence**. In 2026, I have uncovered numerous critical vulnerabilities in agentic healthcare infrastructure deployed across Sweden. My work focuses on research with national-security relevance and contributions to the open-source community. I maintain and develop openly accessible resources and projects, such as the Awesome LLM Security repository and some red-teaming tools. I currently offer a crash course - *Practical Adversarial GenAI for Red Teamers*, and I have previously taught Digital Forensics.
 
 During my **postdoctoral research**, I conducted vulnerability discovery and exploit development on IoT and ICS devices. My team and I identified multiple zero-day vulnerabilities that enabled remote code execution on devices deployed in smart buildings and smart grids. I developed an IoT vulnerability research methodology called **PatrIoT**, authored several responsible disclosure and classified reports, and supervised over a dozen master's theses on offensive security topics.
 
