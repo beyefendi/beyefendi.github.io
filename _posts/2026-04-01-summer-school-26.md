@@ -1,5 +1,6 @@
 ---
 title: Dr. Süren's Summer School - 2026
+permalink: /posts/dr-surens-summer-school-2026/
 #date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [projects, supervision]
 tags: [agents, llm, honeypot, kth, mit, hku]     # TAG names should always be lowercase
