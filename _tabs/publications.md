@@ -32,13 +32,13 @@ Conference Proceedings
 1.  <span class="pub-authors">**E. Süren**, S. Hacks, H. Sigurðarson</span>  
     <span class="pub-title">**SwedTI: Evidence-Grounded Multi-Source Web Threat Triage with Context-Aware Script Classification.**</span>  
     <span class="pub-venue">_International Conference on Availability, Reliability and Security (ARES'26)_, August 2025.</span>
-2.  <span class="pub-authors">S. Hacks, C. Artho, R. Guanciale, R. Künnemann, D. Malakhova, **Emre Süren.**</span>  
+2.  <span class="pub-authors">S. Hacks, C. Artho, R. Guanciale, R. Künnemann, D. Malakhova, **E. Süren.**</span>  
     <span class="pub-title">**FreeCAT - A Framework for Resilience and Evolution by Code Analysis Tools.**</span>  
     <span class="pub-venue">_International Conference on Evaluation and Modeling Methods for Systems Analysis and Development_, March 2025.</span>
 3.  <span class="pub-authors">J. Weiss, L. Nordström, P. Hilber, **E. Suren**.</span>  
     <span class="pub-title">**Procedural Generation of Communication Networks in Power Systems.**</span>  
     <span class="pub-venue">_16th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy 2025)_, December 2024.</span>
-4.  <span class="pub-authors">Ciklabakkal, Ege and Donmez, Ataberk and Erdemir, Mert and **Suren, Emre** and Yilmaz, Mert Kaan and Angin, Pelin.</span>  
+4.  <span class="pub-authors">Ege. Ciklabakkal, Ataberk. Donmez, M. Erdemir, **E. Suren**, MK. Yilmaz, P. Angin</span>  
     <span class="pub-title">**ARTEMIS: An intrusion detection system for MQTT attacks in Internet of Things.**</span>  
     <span class="pub-venue">_38th Symposium on Reliable Distributed Systems (SRDS'19)_, 369-3692, October 2019.</span>
 {: reversed="reversed"}
