@@ -27,26 +27,17 @@ Current Grants
     PI | 2,000,000 SEK (~0.18M €)
     Project | [AI based Cyber Threat Intelligence research](https://www.digitalfutures.kth.se/project/cortex-an-llm-driven-framework-for-enhanced-cti/) [(LinkedIn)](https://www.linkedin.com/posts/royal-hacking-lab_exciting-news-our-researcher-dr-activity-7385348213190426624-DWOF)    
 
-Applied
--------
-
+<!-- Applied -->
+<!-- ------- -->
 
 
 Looking for Partners
 --------------------
 
-*   **VORTEX – Vulnerability-Oriented Retrieval and Tuning for Exploitation**
-    
-    *2026 – 2030* | [Swedish Research Council – Cyber and Information Security](https://www.vr.se/english/applying-for-funding/calls/2024-11-12-project-grant-for-research-into-cyber-and-information-security.html)
-    PI | 5,768,000 SEK (~0.53M €)
-    Project | AI based vulnerability research
+*   **Autonomous vulnerability research in Agentic Infrastructures**
     
 *   **Artificial Honeypot Architectures for Critical Infrastructure Protection and Threat Intelligence in Scandinavia**
-    
-    *2025 – 2029* | [KTH Royal Institute of Technology - International Partner University](https://www.kth.se/en/om/internationellt/strategiska-partneruniversitet/nyheter/sok-finansiering-for-att-anstalla-en-gemensam-doktorand-med-ett-internationellt-partneruniversitet-1.1154149)
-    PI | 4.4M SEK
-    Project | AI-based honeypot architectures for threat intelligence
-        
+      
 
 Completed
 ---------
