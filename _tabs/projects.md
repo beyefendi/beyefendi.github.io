@@ -36,7 +36,7 @@ Looking for Partners
 
 *   **Autonomous vulnerability research in Agentic Infrastructures**
     
-*   **Artificial Honeypot Architectures for Critical Infrastructure Protection and Threat Intelligence in Scandinavia**
+*   **Artificial Honeypot Architectures for Critical Infrastructure Threat Intelligence in Scandinavia**
       
 
 Completed
