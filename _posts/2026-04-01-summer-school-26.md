@@ -13,10 +13,10 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
 
 | Student                | University | Research                         |
 | ---------------------- | ---------- | -------------------------------- |
-| Hudson Hilal           | MIT        | LLM-powered honeypots            |
-| Baiel Abdykerimov      | HKU        | Autonomous hacking agents        |
 | Melvin Sandberg        | KTH        | Guardian agent bypass techniques |
 | Rebecca Ehrnrooth From | KTH        | Prompt injection attacks         |
+| Hudson Hilal           | MIT        | LLM-powered honeypots            |
+| Baiel Abdykerimov      | HKU        | Autonomous hacking agents        |
 
 ---
 
