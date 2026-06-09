@@ -11,6 +11,8 @@ Open-source Security Research Tools
 
 * [**Awesome LLM Security**](https://github.com/beyefendi/awesome-llm-security)  
   2026 | Owner
+* [**spikee \| Prompt Injection Toolkit**](https://github.com/ReversecLabs/spikee)  
+  2025 | Contributer
 * [**PatrIoT \| IoT vulnerability research methodology**](https://github.com/beyefendi/penbook/tree/main/iot)  
   2021 | Owner
 * [**Graudit \| Offensive source code review tool**](https://github.com/wireghoul/graudit)  
