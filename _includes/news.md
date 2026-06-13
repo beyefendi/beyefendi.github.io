@@ -1,5 +1,6 @@
 ## News 
 
+*   **Jun 13**: **[Paper rejected]** ESORICS.
 *   **Jun  8**: **[Grant proposal rejected]** NATO SPS - Wartime Cyber Threat Simulation for Critical Infrastructure Protection (WARCIP) 
 *   **Jun  1**: [Summer school kickoff](/posts/summer-school-26/) — orientation lecture, outdoor fika.
 *   **Jun  1**: **[Invitation]** Got an invitation from ARES as a panelist.
