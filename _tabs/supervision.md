@@ -40,18 +40,18 @@ Masters [⛓️‍💥](https://www.diva-portal.org/smash/resultList.jsf?dswid=-
     2025 - | Ísak Arnar Kolbeins | KTH
 9.  **De-obfuscating and clustering potentially malicious JavaScript injected Swedish webpages**  
     2025 - | Hávar Sigurðarson | Stockholm University
-10. **Large Language Models for Software Vulnerability Discovery and Exploitation**  
-    2025 - | Gabriel Gerdin | Karlstad University
-11. **Fine tuning DeepSeek LLM for vulnerability research**  
+10. **Fine tuning DeepSeek LLM for vulnerability research**  
     2025 - | Siwei Zhang | Stockholm University
-12. **Fine tuning LLama LLM for vulnerability research**  
+11. **Fine tuning LLama LLM for vulnerability research**  
     2025 - | Yanxiang Du | Stockholm University
-13. **Fuzzing Matter(s) : Stateful black-box fuzzer implementation for Matter protocol devices**  
+12. **Fuzzing Matter(s) : Stateful black-box fuzzer implementation for Matter protocol devices**  
     2025 - | Marco Campione | KTH
-14. **Investigating fileless malware in Windows operating systems**  
+13. **Investigating fileless malware in Windows operating systems**  
     2025 - | Anton Rådberg | KTH
-15. **Design and Evaluation of Memory Analytics Measures for Windows 11 Forensics**  
+14. **Design and Evaluation of Memory Analytics Measures for Windows 11 Forensics**  
     2024 - | Edward Norberg | KTH
+15. [**Large Language Models for Software Vulnerability Discovery and Exploitation**](https://urn.kb.se/resolve?urn=urn:nbn:se:kau:diva-110683)  
+    2025 - 2026 | Gabriel Gerdin | Karlstad University
 16. [**Fine-Tuning Small Open-Weight LLMs for Cybersecurity**](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-381430)  
     2024 - 2026 | Roni Henareh | KTH
 17. [**A Penetration Testing and Vulnerability Analysis Approach: Examining Security Risks, Vulnerabilities, and Mitigation Strategies in Swedish Banking, Parking, Delivery, Transport, and Healthcare Apps**](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-375905)  
