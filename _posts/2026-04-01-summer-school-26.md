@@ -43,6 +43,17 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
 
     </div>
 
+    <div class="ss-timeline-entry">
+
+        <div class="ss-timeline-date">2026-06-22</div>
+        <div class="ss-timeline-title">First blood — paper submitted</div>
+
+        Hudson Hilal turned weeks of work on our ongoing LLM-powered honeypot research into SSS'26's **first submission**: a paper sent to an ESORICS workshop. Not bad for someone who was still learning where the good coffee is three weeks ago.
+
+        The contribution builds directly on research already underway in the lab — Hudson's summer work didn't start from a blank page, and the submission shows it. More entries (and hopefully more acceptances) to follow.
+
+    </div>
+
 </div>
 
 *More timeline entries coming soon — check back as the summer progresses.*
