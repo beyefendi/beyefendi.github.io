@@ -48,9 +48,22 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
         <div class="ss-timeline-date">2026-06-22</div>
         <div class="ss-timeline-title">First blood — paper submitted</div>
 
-        Hudson Hilal turned weeks of work on our ongoing LLM-powered honeypot research into SSS'26's **first submission**: a paper sent to an ESORICS workshop. Not bad for someone who was still learning where the good coffee is three weeks ago.
+        Hudson Hilal turned weeks of work on our ongoing LLM-powered honeypot research into SSS'26's <b>first submission</b>: a paper sent to an ESORICS workshop. Not bad for someone who was still learning where the good coffee is three weeks ago.
 
-        The contribution builds directly on research already underway in the lab — Hudson's summer work didn't start from a blank page, and the submission shows it. More entries (and hopefully more acceptances) to follow.
+        The contribution builds directly on research already underway in the lab — Hudson's summer work didn't start from a blank page, and the submission shows it. 
+
+    </div>
+
+    <div class="ss-timeline-entry">
+
+        <div class="ss-timeline-date">2026-06-25</div>
+        <div class="ss-timeline-title">Second submission — off to ISC</div>
+
+        Rebecca Ehrnrooth From followed Hudson's lead with SSS'26's <b>second submission</b>: a paper to <a href="https://isc2026.github.io/">The Information Security Conference (ISC)</a> on her prompt injection research.
+
+        Rebecca's work extends ongoing lab research — and proves the summer school is producing papers faster than some conferences produce their call-for-papers pages. Two students, two venues, zero excuses.
+
+        Her next paper is already in the oven.
 
     </div>
 
