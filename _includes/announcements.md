@@ -6,4 +6,4 @@
 *   **[New courses]** Join my latest courses: [AI Agents for Pentesting](https://youtube.com/playlist?list=PLHSZe6NjhTwUa2jVwQgDM2BTyWVvbmAls) & [Prompt Injection & Jailbreaking](https://www.youtube.com/playlist?list=PLHSZe6NjhTwW1jboW_ccfJpVTMJQvi1zW)
 *   **[Thesis students]** You may find all my open thesis projects [here.](https://lab.cybercampus.se/docs/thesis/?site)
 *   **[Collaboration]** Looking for a Professor as a formal supervisor for my prospective PhD students
-*   **[Collaboration]** Seeking co-researchers/authors for our ongoing research/paper on LLM-based honeypots
+*   **[Collaboration]** Seeking co-researchers/authors for our ongoing research/paper on LLM-based honeypots — code available at [2026-AMaeedi-Honeypot](https://github.com/cybercampus-se/2026-AMaeedi-Honeypot)
