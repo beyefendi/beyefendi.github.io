@@ -1,7 +1,8 @@
 ## News 
 
+*   **Jul  3**: **[Paper submitted]** ACM CCS Workshop.
 *   **Jun 25**: **[Paper submitted]** ISC.
-*   **Jun 22**: **[Paper submitted]** ESORICS Worksop.
+*   **Jun 22**: **[Paper submitted]** ESORICS Workshop.
 *   **Jun 13**: **[Paper rejected]** ESORICS.
 *   **Jun  8**: **[Grant proposal rejected]** NATO SPS - Wartime Cyber Threat Simulation for Critical Infrastructure Protection (WARCIP) 
 *   **Jun  1**: [Summer school kickoff](/posts/summer-school-26/) — orientation lecture, outdoor fika.
