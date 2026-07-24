@@ -1,5 +1,7 @@
 ## News
 
+*   **Jul 24**: **[Paper]** Submitted to an ACM CCS workshop.
+*   **Jul 21**: **[Paper]** Rejected by an ACM CCS workshop.
 *   **Jul 10**: **[Grant]** Submitted a proposal to the Swedish Research Council (VR).
 *   **Jul  3**: **[Paper]** Submitted to an ACM CCS workshop.
 *   **Jun 25**: **[Paper]** Submitted to ISC.
