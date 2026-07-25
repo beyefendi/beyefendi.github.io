@@ -78,6 +78,17 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
 
     </div>
 
+    <div class="ss-timeline-entry">
+
+        <div class="ss-timeline-date">2026-07-25</div>
+        <div class="ss-timeline-title">Fourth submission — Hudson's encore</div>
+
+        Hudson submitted his <b>second paper</b> of the summer — SSS'26's <b>fourth submission</b> overall — to a workshop at <a href="https://www.sigsac.org/ccs/CCS2026/">ACM CCS 2026</a>. Same honeypot theme, enhanced approach.
+
+        Two papers from Hudson, two from Rebecca, two CCS workshop tracks getting equal dose of SSS'26. The coffee near campus is clearly working.
+
+    </div>
+
 </div>
 
 *More timeline entries coming soon — check back as the summer progresses.*
