@@ -94,3 +94,10 @@ Bachelors
 7.  [**Trends and scientometrics in cyber security research**](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1707874)  
     2021 - 2022 | Jesper Slagarp & Elvira Häggström | KTH
 {: reversed="reversed"}
+
+Summer School
+-------------
+
+1.  [**Dr. Süren's Summer School — 2026**](/posts/summer-school-26/)  
+    2026 | KTH, MIT, HKU
+{: reversed="reversed"}

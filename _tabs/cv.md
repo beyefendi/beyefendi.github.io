@@ -83,3 +83,9 @@ Publicly Exploit Development
 
 * [Remote Code Execution via crafted HTTP request](https://www.exploit-db.com/exploits/49110)  
   2020 | Ruckus IoT Controller (Ruckus vRIoT) 1.5.1.0.21
+
+Annual Reports
+--------------
+
+* [**2025**](/assets/cv/suren-annual-report-2025.pdf)
+* [**2024**](/assets/cv/suren-annual-report-2024.pdf)
