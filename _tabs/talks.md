@@ -5,6 +5,17 @@ icon: fa-solid fa-comment
 order: 2
 ---
 
+Sophisticated Agentic Attacks
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-07-29</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Online</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">RK 01 Cyber-Sicherheit</span> | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.reservistenverband.de/bremen/rk-01-cyber-sicherheit/termine/online-rk-treffen-mit-praktischemvortrag/) [Link 2](/assets/img/talks/2026-07-german-reserve-2.png)
+
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology, RK 01 Cyber-Sicherheit, Reservistenverband, Agentic attacks](/assets/img/talks/2026-07-german-reserve.png){: w="100" h="100" .left .talk-img}
+
+Dr. Emre Süren gave an online talk to **RK 01 Cyber-Sicherheit** of the [Reservistenverband](https://www.reservistenverband.de/bremen/rk-01-cyber-sicherheit/termine/online-rk-treffen-mit-praktischemvortrag/) on **sophisticated agentic attacks** — how to perform agentic offensive operations and how to detect agentic attacks.
+
+* * *
+
 Discovering Vulnerabilities in Agentic Infrastructures
 -----------------------------------
 
@@ -27,7 +38,7 @@ Dr. Emre Süren gave a presentation to security unit from **FMV**, sharing insig
 
 * * *
 
-Offensive AI Agents: How they operate?
+Offensive AI Agents: How They Operate?
 -----------------------------------
 
 <i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-03-26</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Royal Hacking Lab</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">US Government & Venture Capital Delegation</span> | <i class="fa fa-thumbs-up"></i>
