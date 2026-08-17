@@ -89,6 +89,17 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
 
     </div>
 
+    <div class="ss-timeline-entry">
+
+        <div class="ss-timeline-date">2026-08-17</div>
+        <div class="ss-timeline-title">Final submission — Melvin to NDSS</div>
+
+        Melvin submitted SSS'26's <b>fifth — and final — paper</b> to <a href="https://www.ndss-symposium.org/">NDSS</a>, on bypassing LLM guardrails. We waited a long time for this one: NDSS was the target all along, and this year it heads to <b>Seoul</b>.
+
+        Four students, five submissions, one summer that saved the best venue for last. Guardian-agent bypass work, packed for Korea.
+
+    </div>
+
 </div>
 
 *More timeline entries coming soon — check back as the summer progresses.*

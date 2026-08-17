@@ -10,7 +10,7 @@ Conference Proceedings
 
 1.  <span class="pub-authors">**E. Süren**, S. Hacks, H. Sigurðarson</span>  
     <span class="pub-title">**SwedTI: Evidence-Grounded Multi-Source Web Threat Triage with Context-Aware Script Classification.**</span>  
-    <span class="pub-venue">_International Conference on Availability, Reliability and Security (ARES'26)_, 16902, August 2026.</span>
+    <span class="pub-venue">_International Conference on Availability, Reliability and Security (ARES'26)_, 16902:1-18, August 2026.</span>
 2.  <span class="pub-authors">S. Hacks, C. Artho, R. Guanciale, R. Künnemann, D. Malakhova, **E. Süren.**</span>  
     <span class="pub-title">**FreeCAT - A Framework for Resilience and Evolution by Code Analysis Tools.**</span>  
     <span class="pub-venue">_International Conference on Evaluation and Modeling Methods for Systems Analysis and Development_, Mar. 2025.</span>
