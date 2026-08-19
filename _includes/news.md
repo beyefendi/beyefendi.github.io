@@ -14,4 +14,3 @@
 *   **Jun  1**: **[Paper]** Accepted at ARES.
 *   **Apr 23**: **[Grant]** Rejected by EU Horizon (ECCC-01-2025) for a €14M proposal on autonomous penetration testing agents — score 12.5/15 (Excellence 4.5, Impact 3.5, Implementation 4.5).
 *   **Apr 22**: **[0day]** Discovered and responsibly disclosed 10+ vulnerabilities in LLM-powered applications.
-*   **Apr 15**: **[Paper]** Started drafting a paper on a novel method for bypassing two-way guardian agents.
