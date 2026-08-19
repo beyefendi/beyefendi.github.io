@@ -122,7 +122,7 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
 
     <div class="ss-timeline-entry">
 
-        <div class="ss-timeline-date">2026-08-19</div>
+        <div class="ss-timeline-date">2026-08-24</div>
         <div class="ss-timeline-title">A note from the host</div>
 
         Summer schools at KTH are a voluntary service. Instead of moving from one beach to another, you may prefer reading one paper after another. Help the young generation survive in this jungle.
@@ -133,7 +133,18 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
 
     <div class="ss-timeline-entry">
 
-        <div class="ss-timeline-date">Next</div>
+        <div class="ss-timeline-date">2026-08-28</div>
+        <div class="ss-timeline-title">Poster session — best poster race</div>
+
+        KTH summer interns present their work in a poster session — and SSS'26 will be in the running for <b>best poster</b>.
+
+        <i>Placeholder:</i> who showed up, what was on the boards, and whether the coffee near campus translates to trophy metal. Watch this space.
+
+    </div>
+
+    <div class="ss-timeline-entry">
+
+        <div class="ss-timeline-date">2026-08-31</div>
         <div class="ss-timeline-title">What's next — SSS'27</div>
 
         Are you willing to be a part of Dr. Süren's team? With this year's experience, he knows what to do better. Plans for <b>Dr. Süren's Summer School 2027</b> are coming — stay tuned.
@@ -143,7 +154,5 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
     </div>
 
 </div>
-
-*More timeline entries coming soon — check back as the summer progresses.*
 
 *Powered by Digital Futures*
