@@ -27,7 +27,7 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
         <div class="ss-timeline-date">2026-06-01</div>
         <div class="ss-timeline-title">Kickoff</div>
 
-        Dr. Süren opened SSS'26 with a kickoff lecture to orient everyone to the summer internship program: expectations, research themes, KTH culture, and (importantly) where to find good coffee near campus.
+        Dr. Süren opened SSS'26 with a kickoff lecture to orient everyone to the summer internship program: expectations, research themes, school culture, and (importantly) where to find good coffee near campus.
 
         Three students showed up in person. Bailey joined remotely, proving that hybrid attendance works.
 
@@ -72,7 +72,7 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
         <div class="ss-timeline-date">2026-07-07</div>
         <div class="ss-timeline-title">Third submission — Rebecca's second paper</div>
 
-        The oven timer went off. Rebecca submitted her <b>second paper</b> of the summer — and SSS'26's <b>third submission</b> overall — to a workshop at <a href="https://www.sigsac.org/ccs/CCS2026/">ACM CCS 2026</a>, again building on her prompt injection research.
+        The oven timer went off. Rebecca submitted her <b>second paper</b> of the summer — and SSS'26's <b>third submission</b> overall — to a workshop at <a href="https://www.sigsac.org/ccs/CCS2026/">ACM CCS 2026</a>, again building on our prompt injection research.
 
         Two papers, two venues, one summer. At this rate, Rebecca may finish before Baiel figures out the time zone.
 
@@ -105,7 +105,9 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
         <div class="ss-timeline-date">2026-08-19</div>
         <div class="ss-timeline-title">Hudson makes the KTH frontpage</div>
 
-        KTH picked <b>one</b> summer research intern out of hundreds to feature — and it was <b>Hudson</b>. The <a href="https://www.kth.se/en/student/nyheter/from-mit-to-kth-exploring-ai-powered-cybersecurity-in-sweden-1.1489039">Student Web piece</a> covers his MIT-to-KTH journey, LLM-powered honeypots with Dr. Süren. Two papers, one KTH spotlight, zero chill. Not bad for eight weeks of getting to know state-of-the art vision.
+        KTH picked <b>one</b> summer research intern out of hundreds to feature — and it was <b>Hudson</b>. 
+        
+        The <a href="https://www.kth.se/en/student/nyheter/from-mit-to-kth-exploring-ai-powered-cybersecurity-in-sweden-1.1489039">Student Web piece</a> covers his MIT-to-KTH journey, LLM-powered honeypots with Dr. Süren. Two papers, one KTH spotlight, zero chill. Not bad for eight weeks of getting to know a state-of-the art vision.
 
     </div>
 
@@ -114,7 +116,7 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
         <div class="ss-timeline-date">TBD</div>
         <div class="ss-timeline-title">Melvin &amp; Rebecca — the director's cut</div>
 
-        Melvin and Rebecca were <b>not</b> invited for KTH interview party — which is fine, because this page has room for the uncensored cut.
+        Melvin and Rebecca were <b>not</b> invited for KTH interview party — which is fine, and now this page has room for the uncensored cut.
 
         <i>Placeholder:</i> their SSS'26 experience, unfiltered. Watch this space.
 
@@ -125,9 +127,9 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
         <div class="ss-timeline-date">2026-08-24</div>
         <div class="ss-timeline-title">A note from the host</div>
 
-        Summer schools at KTH are a voluntary service. Instead of moving from one beach to another, you may prefer reading one paper after another. Help the young generation survive in this jungle.
+        Once we consider that summer schools are a voluntary service. Instead of moving from one beach to another, one may prefer reading one paper after another. Help the young generation survive in this jungle.
 
-        I am proud to serve these brilliant students — and it is my chance to have such students. I also congratulate the many other supervisors who dedicated their well-deserved free time; they deserve the highlights just for giving those students the opportunity to shine.
+        Dr. Süren: "I am proud to serve these brilliant students — and it is my chance to have such students. I also congratulate the many other supervisors who dedicated their well-deserved free time; they deserve the highlights just for giving those students the opportunity to shine."
 
     </div>
 
@@ -147,9 +149,9 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
         <div class="ss-timeline-date">2026-08-31</div>
         <div class="ss-timeline-title">What's next — SSS'27</div>
 
-        Are you willing to be a part of Dr. Süren's team? With this year's experience, he knows what to do better. Plans for <b>Dr. Süren's Summer School 2027</b> are coming — stay tuned.
+        Willing to hit a summer journey with Dr. Süren? With this year's experience, he knows what to do better. Plans for the next iteration are coming — stay tuned.
 
-        The idea: a <b>borderless opportunity</b>. More students, more labs, fewer gates.
+        The idea: a <b>borderless opportunity</b>. More students & more research.
 
     </div>
 
