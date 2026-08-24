@@ -8,16 +8,19 @@ order: 1
 Conference Proceedings
 ----------------------
 
-1.  <span class="pub-authors">**E. Süren**, S. Hacks, H. Sigurðarson</span>  
+1.  <span class="pub-authors">**E. Süren**, R.A. From, A. Timsätser</span>  
+    <span class="pub-title">**From Guardrail Bypass to Agentic Infrastructure Compromise: Lateral Movement Across an LLM-Orchestrated Kubernetes Platform**</span>  
+    <span class="pub-venue">3rd ACM CCS Workshop on Large AI Systems and Models with Privacy and Security Analysis (LAMPS '26), August 2026.</span>  
+2.  <span class="pub-authors">**E. Süren**, S. Hacks, H. Sigurðarson</span>  
     <span class="pub-title">**SwedTI: Evidence-Grounded Multi-Source Web Threat Triage with Context-Aware Script Classification.**</span>  
     <span class="pub-venue">_International Conference on Availability, Reliability and Security (ARES'26)_, 16902:1-18, August 2026.</span>
-2.  <span class="pub-authors">S. Hacks, C. Artho, R. Guanciale, R. Künnemann, D. Malakhova, **E. Süren.**</span>  
+3.  <span class="pub-authors">S. Hacks, C. Artho, R. Guanciale, R. Künnemann, D. Malakhova, **E. Süren.**</span>  
     <span class="pub-title">**FreeCAT - A Framework for Resilience and Evolution by Code Analysis Tools.**</span>  
     <span class="pub-venue">_International Conference on Evaluation and Modeling Methods for Systems Analysis and Development_, Mar. 2025.</span>
-3.  <span class="pub-authors">J. Weiss, L. Nordström, P. Hilber, **E. Suren**.</span>  
+4.  <span class="pub-authors">J. Weiss, L. Nordström, P. Hilber, **E. Suren**.</span>  
     <span class="pub-title">**Procedural Generation of Communication Networks in Power Systems.**</span>  
     <span class="pub-venue">_16th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy 2025)_, Dec. 2024.</span>
-4.  <span class="pub-authors">Ege. Ciklabakkal, Ataberk. Donmez, M. Erdemir, **E. Suren**, MK. Yilmaz, P. Angin</span>  
+5.  <span class="pub-authors">Ege. Ciklabakkal, Ataberk. Donmez, M. Erdemir, **E. Suren**, MK. Yilmaz, P. Angin</span>  
     <span class="pub-title">**ARTEMIS: An intrusion detection system for MQTT attacks in Internet of Things.**</span>  
     <span class="pub-venue">_38th Symposium on Reliable Distributed Systems (SRDS'19)_, 369-3692, October 2019.</span>
 {: reversed="reversed"}
