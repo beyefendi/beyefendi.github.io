@@ -1,5 +1,6 @@
 ## News
 
+*   **Aug 24**: **[Paper]** Accepted by ACM CCS LAMPS.
 *   **Aug 17**: **[Paper]** Submitted to NDSS.
 *   **Jul 24**: **[Paper]** Submitted to an ACM CCS workshop.
 *   **Jul 21**: **[Paper]** Rejected by an ESORICS workshop.

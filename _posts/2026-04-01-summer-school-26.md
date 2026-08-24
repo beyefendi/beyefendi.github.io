@@ -37,8 +37,6 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
 
         <img src="/assets/img/posts/summer-school-26-kickoff-1.jpg" alt="Dr. Süren and SSS'26 students at an outdoor lunch on campus">
 
-        <img src="/assets/img/posts/summer-school-26-kickoff-2.jpg" alt="SSS'26 kickoff group photo in front of an iconic spot at KTH">
-
         </div>
 
     </div>
@@ -109,6 +107,12 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
         
         The <a href="https://www.kth.se/en/student/nyheter/from-mit-to-kth-exploring-ai-powered-cybersecurity-in-sweden-1.1489039">Student Web piece</a> covers his MIT-to-KTH journey, LLM-powered honeypots with Dr. Süren. Two papers, one KTH spotlight, zero chill. Not bad for eight weeks of getting to know a state-of-the art vision.
 
+        <div class="ss-timeline-photos">
+
+        <img src="/assets/img/posts/summer-school-26-kickoff-2.jpg" alt="SSS'26 kickoff group photo in front of an iconic spot at KTH">
+
+        </div>
+
     </div>
 
     <div class="ss-timeline-entry">
@@ -118,7 +122,26 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
 
         Melvin and Rebecca were <b>not</b> invited for KTH interview party — which is fine, and now this page has room for the uncensored cut.
 
-        <i>Placeholder:</i> their SSS'26 experience, unfiltered. Watch this space.
+        **Rebecca**
+        <i>
+        What made this summer different was getting much more than a normal internship: real research ownership, conference targets, lab access, and a lot of responsibility. The expectations were clear, and I also had a very flexible schedule, which I really appreciated. As of today, one of our papers has just been accepted to a conference, which is very exciting. The work goes beyond just working on something for the summer, since the research can actually continue into papers, conferences, and future projects.
+
+        Dr. Süren was pretty much always available, even though he was very deserving of a vacation himself, so I tried to keep my questions concise and collected. The expectations and tasks were very clear, while I still had a lot of freedom in how to complete them. Since it was my first time writing a research paper, I really appreciated all the feedback I could get. His approach was a great combination of seriousness and humour, which kept things relaxed but professional.
+
+        I was not blocked very often since the tasks were so clear. One example was early in the summer when KTH had closed the computer rooms and my own computer was not powerful enough to reliably run the tests. Emre lent me a computer within about an hour, which was very appreciated. In general, I also got responses very quickly.
+
+        Probably the biggest thing is actually constructing a research paper. Although I received a really good initial draft to work from, I still learned a lot about how to structure, format, and write one — plus submission, peer review, and how the process works overall. Prior to this, I had no clue about writing a real research paper. It also felt quite unusual compared with other students. At the kickoff, I only heard about one other student, besides Melvin, who was planning to turn her masters thesis into an actual research paper. None of my bachelor peers, that I know of, ended up writing towards a paper.
+
+        The hacking study really stuck with me. I had a lot of fun doing it. I learned a lot by researching things myself and using the provided AI model when allowed, especially about ICS hacking.
+
+        You were selected for a reason, and they clearly believe in you, so give it your all and be proud of the opportunity. The work comes with a lot of responsibility and flexible scheduling, so my main tip is to start the difficult work early to avoid unnecessary stress later. And if something is unclear, just ask!
+
+        I would recommend it to someone who is passionate, ambitious, and interested in the type of work being done. If someone struggles with working independently or managing a flexible schedule, it might not be the best fit.
+
+        To still enjoy the summer, set up mini goals and once you achieve them, go enjoy yourself and celebrate. It could mean anything from grabbing a beer with friends to having some Swedish fika. One of my favorite places to celebrate in Stockholm during the summer is Skinnarviksberget. It has a beautiful view, but make sure to go when the weather is nice.
+        </i>
+
+        <i>Placeholder:</i> Melvin's SSS'26 experience, unfiltered. Watch this space.
 
     </div>
 
@@ -127,9 +150,9 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
         <div class="ss-timeline-date">2026-08-24</div>
         <div class="ss-timeline-title">A note from the host</div>
 
-        Once we consider that summer schools are a voluntary service. Instead of moving from one beach to another, one may prefer reading one paper after another. Help the young generation survive in this jungle.
+        Once we remember that the summer schools are a voluntary service... Instead of moving from one beach to another, one may prefer reading one paper after another. Help the young generation survive in this jungle.
 
-        Dr. Süren: "I am proud to serve these brilliant students — and it is my chance to have such students. I also congratulate the many other supervisors who dedicated their well-deserved free time; they deserve the highlights just for giving those students the opportunity to shine."
+        Dr. Süren: <i>"I am proud to serve these brilliant students — and it is my chance to have such students. I also congratulate the many other supervisors who dedicated their well-deserved free time; they deserve the highlights just for giving those students the opportunity to shine."</i>
 
     </div>
 
@@ -138,7 +161,7 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
         <div class="ss-timeline-date">2026-08-28</div>
         <div class="ss-timeline-title">Poster session — best poster race</div>
 
-        KTH summer interns present their work in a poster session — and SSS'26 will be in the running for <b>best poster</b>.
+        Digital Future's summer interns present their work in a poster session — and SSS'26 will be in the running for <b>best poster</b>.
 
         <i>Placeholder:</i> who showed up, what was on the boards, and whether the coffee near campus translates to trophy metal. Watch this space.
 
