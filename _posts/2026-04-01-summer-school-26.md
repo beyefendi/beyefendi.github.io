@@ -117,12 +117,13 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
 
     <div class="ss-timeline-entry">
 
-        <div class="ss-timeline-date">TBD</div>
+        <div class="ss-timeline-date">2026-08-24</div>
         <div class="ss-timeline-title">Melvin &amp; Rebecca — the director's cut</div>
 
         Melvin and Rebecca were <b>not</b> invited for KTH interview party — which is fine, and now this page has room for the uncensored cut.
 
-        **Rebecca**
+        <br/>
+        <b>Rebecca:</b>
         <i>
         What made this summer different was getting much more than a normal internship: real research ownership, conference targets, lab access, and a lot of responsibility. The expectations were clear, and I also had a very flexible schedule, which I really appreciated. As of today, one of our papers has just been accepted to a conference, which is very exciting. The work goes beyond just working on something for the summer, since the research can actually continue into papers, conferences, and future projects.
 
@@ -141,13 +142,14 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
         To still enjoy the summer, set up mini goals and once you achieve them, go enjoy yourself and celebrate. It could mean anything from grabbing a beer with friends to having some Swedish fika. One of my favorite places to celebrate in Stockholm during the summer is Skinnarviksberget. It has a beautiful view, but make sure to go when the weather is nice.
         </i>
 
+        <br/>
         <i>Placeholder:</i> Melvin's SSS'26 experience, unfiltered. Watch this space.
 
     </div>
 
     <div class="ss-timeline-entry">
 
-        <div class="ss-timeline-date">2026-08-24</div>
+        <div class="ss-timeline-date">2026-08-26</div>
         <div class="ss-timeline-title">A note from the host</div>
 
         Once we remember that the summer schools are a voluntary service... Instead of moving from one beach to another, one may prefer reading one paper after another. Help the young generation survive in this jungle.
