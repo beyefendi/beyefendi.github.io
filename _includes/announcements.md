@@ -1,5 +1,6 @@
 ## Announcements
 
+*   **[Open position]** [Postdoc fellowship — LLM security & agentic AI](/posts/postdoc-fellowship-llm-security/) · DF pre-registration **2 Oct 2026**.
 *   **[Talk]** Will present [SwedTI](https://link.springer.com/chapter/10.1007/978-3-032-35586-7_7) @ ARES
 *   **[Supervision]** Open thesis projects are listed [here](https://lab.cybercampus.se/docs/thesis/?site).
 *   **[Interview]** My interview with *Sverige forskar* is live on [UR Play](https://www.youtube.com/playlist?list=PLHSZe6NjhTwXbYs7to35R18PeOsoklcYW).

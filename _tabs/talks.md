@@ -9,7 +9,7 @@ order: 2
 SwedTI: Evidence-Grounded Multi-Source Web Threat Triage
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-08-26</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Linköping</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">ARES 2026 / AI4TCI</span> | <i class="fa fa-thumbs-up"></i>
+<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-08-26</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Linköping</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">ARES 2026 / AI4TCI</span> | <i class="fa fa-thumbs-up"></i> [Link 1](https://lnkd.in/p/dU_Kb5tj)
 
 ![Dr. Emre Süren, ARES 2026, AI4TCI, SwedTI, Linköping, KTH Royal Institute of Technology](/assets/img/talks/undisclosed.jpg){: w="100" h="100" .left .talk-img}
 

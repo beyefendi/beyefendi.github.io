@@ -6,8 +6,11 @@ order: 4
 ---
 
 
-<!-- PostDoc
-------- -->
+Open positions
+--------------
+
+* [**Postdoc Fellowship — LLM Security & Agentic AI**](/posts/postdoc-fellowship-llm-security/)  
+  Digital Futures · pre-registration **2 Oct 2026** · EU residence to Jan 2027+ required
 
 <!-- Researchers
 --- -->
