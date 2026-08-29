@@ -2,7 +2,7 @@
 title: Postdoc Fellowship — Agentic Offensive Security
 categories: [supervision]
 tags: [llm, agents, security, postdoc, kth, digital-futures]
-description: Digital Futures Postdoc Fellowship hosted at KTH — applications due 20 September 2026; DF pre-registration closes 2 October 2026.
+description: Digital Futures Postdoc Fellowship hosted at KTH — applications due 20 September 2026.
 toc: false
 ---
 
@@ -15,9 +15,9 @@ toc: false
 
 ## Who should apply
 
-* PhD obtained in **2026**
 * PhD in a relevant area (security, ML/AI, systems, or adjacent)
 * Interests ideally overlapping LLM security or adversarial ML
+* PhD obtained in **2026**
 * **Mobility** required: moving to KTH from another institution (not open to researchers already based at KTH)
 * **Requirement:** EU residence permit valid at least until **January 2027**. Extensions possible; **new** permits cannot be issued for this call.
 
@@ -34,19 +34,16 @@ toc: false
 | Decisions           | December 2026         |
 | Project start       | June 2027             |
 
-### Opportunities
-
-* Top-[ranked](https://www.timeshighereducation.com/student/best-universities/best-universities-europe) university (98 world / 34 EU)
-* Living in Stockholm
-* Remote work possible
-* Flexible hours
-
-### How to apply
+## How to apply
 
 * Cover letter: max one-page research plan
 * CV (include your EU residence status)
 * One reference letter (optional)
 * Email files to **Dr. Emre Süren** by **20 September 2026**
-* No need to remind me about your application
-* No need to request a chat about the position
-* I will read every application and invite suitable candidates
+
+## Opportunities
+
+* Top-[ranked](https://www.timeshighereducation.com/student/best-universities/best-universities-europe) university (98 world / 34 EU)
+* Living in Stockholm
+* Remote work possible
+* Flexible hours
