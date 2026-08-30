@@ -9,7 +9,7 @@ toc: false
 compress_html: false
 ---
 
-Dr. Süren is hosting an international summer school in 2026. The program runs for eight weeks, from 1 June through the end of July. This page is a living timeline — new photos and updates will land here as the summer unfolds.
+Dr. Süren hosted an international summer school in 2026. The program ran for eight weeks, from 1 June through the end of July. This page is the living timeline of that summer — photos, submissions, and reflections as they landed.
 
 | Student                | University | Research                         |
 | ---------------------- | ---------- | -------------------------------- |
@@ -48,7 +48,7 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
 
         Hudson turned weeks of work on our ongoing LLM-powered honeypot research into SSS'26's <b>first submission</b>: a paper sent to an ESORICS workshop. Not bad for someone who was still learning where the good coffee is three weeks ago.
 
-        The contribution builds directly on research already underway in the lab — Hudson's summer work didn't start from a blank page, and the submission shows it. 
+        The contribution builds directly on research already underway in the lab — Hudson's summer work didn't start from a blank page, and the submission shows it.
 
     </div>
 
@@ -83,7 +83,7 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
 
         Hudson submitted his <b>second paper</b> of the summer — SSS'26's <b>fourth submission</b> overall — to a workshop at <a href="https://www.sigsac.org/ccs/CCS2026/">ACM CCS 2026</a>. Same honeypot theme, enhanced approach.
 
-        Two papers from Hudson, two from Rebecca, two CCS workshop tracks getting equal dose of SSS'26. The coffee near campus is clearly working.
+        Two papers from Hudson, two from Rebecca, two CCS workshop tracks getting an equal dose of SSS'26. The coffee near campus is clearly working.
 
     </div>
 
@@ -103,9 +103,9 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
         <div class="ss-timeline-date">2026-08-19</div>
         <div class="ss-timeline-title">Hudson makes the KTH frontpage</div>
 
-        KTH picked <b>one</b> summer research intern out of hundreds to feature — and it was <b>Hudson</b>. 
-        
-        The <a href="https://www.kth.se/en/student/nyheter/from-mit-to-kth-exploring-ai-powered-cybersecurity-in-sweden-1.1489039">Student Web piece</a> covers his MIT-to-KTH journey, LLM-powered honeypots with Dr. Süren. Two papers, one KTH spotlight, zero chill. Not bad for eight weeks of getting to know a state-of-the art vision.
+        KTH picked <b>one</b> summer research intern out of hundreds to feature — and it was <b>Hudson</b>.
+
+        The <a href="https://www.kth.se/en/student/nyheter/from-mit-to-kth-exploring-ai-powered-cybersecurity-in-sweden-1.1489039">Student Web piece</a> covers his MIT-to-KTH journey, LLM-powered honeypots with Dr. Süren. Two papers, one KTH spotlight, zero chill. Not bad for eight weeks of getting to know a state-of-the-art vision.
 
         <div class="ss-timeline-photos">
 
@@ -120,7 +120,7 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
         <div class="ss-timeline-date">2026-08-24</div>
         <div class="ss-timeline-title">Melvin &amp; Rebecca — the director's cut</div>
 
-        Melvin and Rebecca were <b>not</b> invited for KTH interview party — which is fine, and now this page has room for the uncensored cut.
+        Melvin and Rebecca were <b>not</b> invited to the KTH interview party — which is fine, and now this page has room for the uncensored cut.
 
         <br/>
         <b>Rebecca:</b>
@@ -131,7 +131,7 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
 
         One example early in the summer: KTH had closed the computer rooms and my own computer was not powerful enough to reliably run the tests. Emre lent me a computer within about an hour, which was very appreciated.
 
-        Probably the biggest thing is constructing a research paper — structure, format, submission, peer review, the whole process. Prior to this, I had no clue. At the kickoff, besides Melvin, I only heard about one other student planning to turn a thesis into a paper. None of my bachelor peers, that I know of, ended up writing towards one.
+        Probably the biggest thing is constructing a research paper — structure, format, submission, peer review, the whole process. Prior to this, I had no clue. At the kickoff, besides Melvin, I only heard about one other student planning to turn a thesis into a paper. None of my bachelor peers that I know of ended up writing towards one.
 
         The hacking study really stuck with me. I had a lot of fun doing it. I learned a lot by researching things myself and using the provided AI model when allowed, especially about ICS hacking.
 
@@ -163,9 +163,19 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
         <div class="ss-timeline-date">2026-08-28</div>
         <div class="ss-timeline-title">Poster session — best poster race</div>
 
-        Digital Future's summer interns present their work in a poster session — and SSS'26 will be in the running for <b>best poster</b>.
+        Digital Futures summer interns presented their work in a poster session — and SSS'26 was in the running for <b>best poster</b>. Two boards, one crowded room, zero chill.
 
-        <i>Placeholder:</i> who showed up, what was on the boards, and whether the coffee near campus translates to trophy metal. Watch this space.
+        Melvin had just landed his first job — and of course the kickoff landed on poster day. So Dr. Süren did the full Melvin package: presented the poster, competed on his behalf, and cast Melvin's vote for Rebecca (loyalty clause still active). When Rebecca needed a breath under the visitor barrage, he covered that shift too. Supervision, it turns out, includes Q&A triage.
+
+        At the end of the day, neither of us won. The coffee near campus remains undefeated; the important thing was competing (yes, we're like consoling ourselves).
+
+        <div class="ss-timeline-photos">
+
+        <img src="/assets/img/posts/summer-school-26-poster-1.jpg" alt="Rebecca's SSS'26 poster at the Digital Futures summer intern poster session">
+
+        <img src="/assets/img/posts/summer-school-26-poster-2.jpg" alt="Melvin's SSS'26 poster at the Digital Futures summer intern poster session">
+
+        </div>
 
     </div>
 
@@ -174,9 +184,9 @@ Dr. Süren is hosting an international summer school in 2026. The program runs f
         <div class="ss-timeline-date">2026-08-31</div>
         <div class="ss-timeline-title">What's next — SSS'27</div>
 
-        Willing to hit a summer journey with Dr. Süren? With this year's experience, he knows what to do better. Plans for the next iteration are coming — stay tuned.
+        Willing to join a summer journey with Dr. Süren? With this year's experience, he knows what to do better. Plans for the next iteration are coming — stay tuned.
 
-        The idea: a <b>borderless opportunity</b>. More students & more research.
+        The idea: a <b>borderless opportunity</b>. More students and more research.
 
     </div>
 
