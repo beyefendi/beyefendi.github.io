@@ -152,7 +152,7 @@ Dr. Süren hosted an international summer school in 2026. The program ran for ei
         <div class="ss-timeline-date">2026-08-26</div>
         <div class="ss-timeline-title">A note from the host</div>
 
-        Once we remember that the summer schools are a **voluntary** service... Instead of moving from one beach to another, one may prefer reading one paper after another. Help the **young generation** survive in this jungle.
+        Once we remember that the summer schools are a <b>voluntary</b> service... Instead of moving from one beach to another, one may prefer reading one paper after another. Help the young generation survive in this jungle.
 
         Dr. Süren: <i>"I am proud to serve these brilliant students — and it is my chance to have such students. I also congratulate the many other supervisors who dedicated their well-deserved free time; they deserve the highlights just for giving those students the opportunity to shine."</i>
 
@@ -163,7 +163,7 @@ Dr. Süren hosted an international summer school in 2026. The program ran for ei
         <div class="ss-timeline-date">2026-08-28</div>
         <div class="ss-timeline-title">Poster session — best poster race</div>
 
-        Digital Futures summer interns presented their work in a **poster** session — and SSS'26 was in the running for <b>best poster</b>. Two boards, one crowded room, zero chill.
+        Digital Futures summer interns presented their work in a <b>poster</b> session — and SSS'26 was in the running for best poster. Two boards, one crowded room, zero chill.
 
         Melvin had just landed his first job — and of course the kickoff landed on poster day. So Dr. Süren did the full Melvin package: presented the poster, competed on his behalf, and cast Melvin's vote for Rebecca (loyalty clause still active). When Rebecca needed a breath under the visitor barrage, he covered that shift too. Supervision, it turns out, includes Q&A triage.
 

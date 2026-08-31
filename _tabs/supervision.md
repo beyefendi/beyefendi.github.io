@@ -47,7 +47,7 @@ Masters [⛓️‍💥](https://www.diva-portal.org/smash/resultList.jsf?dswid=-
     2025 - | Hávar Sigurðarson | Stockholm University
 11. **Design and Evaluation of Memory Analytics Measures for Windows 11 Forensics**  
     2024 - | Edward Norberg | KTH
-12. [**Fuzzing Matter(s) : Stateful black-box fuzzer implementation for Matter protocol devices**](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-386115) 
+12. [**Fuzzing Matter(s) : Stateful black-box fuzzer implementation for Matter protocol devices**](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-386115)  
     2025 - | Marco Campione | KTH
 13. [**Large Language Models for Software Vulnerability Discovery and Exploitation**](https://urn.kb.se/resolve?urn=urn:nbn:se:kau:diva-110683)  
     2025 - 2026 | Gabriel Gerdin | Karlstad University
