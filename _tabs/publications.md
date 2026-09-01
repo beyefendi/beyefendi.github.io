@@ -8,8 +8,8 @@ order: 1
 Conference Proceedings
 ----------------------
 
-1.  <span class="pub-authors">**E. Süren**, R.A. From, A. Timsätser</span>  
-    <span class="pub-title">**From Guardrail Bypass to Agentic Infrastructure Compromise: Lateral Movement Across an LLM-Orchestrated Kubernetes Platform**</span>  
+1.  <span class="pub-authors">**E. Süren**, R.E. From, A. Timsätser</span>  
+    <span class="pub-title">**From Guardrail Leak to Agentic Infrastructure Compromise: Lateral Movement Across an LLM-Orchestrated Kubernetes Platform**</span>  
     <span class="pub-venue">3rd ACM CCS Workshop on Large AI Systems and Models with Privacy and Security Analysis (LAMPS '26), August 2026.</span>  
 2.  <span class="pub-authors">**E. Süren**, S. Hacks, H. Sigurðarson</span>  
     <span class="pub-title">**SwedTI: Evidence-Grounded Multi-Source Web Threat Triage with Context-Aware Script Classification.**</span>  
