@@ -94,9 +94,22 @@ Bachelors
     2021 - 2022 | Jesper Slagarp & Elvira Häggström | KTH
 {: reversed="reversed"}
 
+
 Summer School
 -------------
 
 1.  [**Dr. Süren's Summer School — 2026**](/posts/summer-school-26/)  
-    2026 | KTH, MIT, HKU
+    
+    Melvin Sandberg        | KTH Royal Institute of Technology  
+    Rebecca Ehrnrooth From | KTH Royal Institute of Technology  
+    Hudson Hilal           | Massachusetts Institute of Technology (MIT)  
+    Baiel Abdykerimov      | Hong Kong University of Science and Technology (HKUST)
+
 {: reversed="reversed"}
+
+<!-- 
+Visiting Students
+-----------
+
+{: reversed="reversed"}
+-->
