@@ -1,11 +1,11 @@
 ## News
 
+*   **Aug 31**: **[Paper]** Rejected by ISC.
 *   **Aug 24**: **[Paper]** Accepted by ACM CCS LAMPS.
 *   **Aug 17**: **[Paper]** Submitted to NDSS.
 *   **Jul 24**: **[Paper]** Submitted to an ACM CCS workshop.
 *   **Jul 21**: **[Paper]** Rejected by an ESORICS workshop.
 *   **Jul 10**: **[Grant]** Submitted a proposal to the Swedish Research Council (VR).
-*   **Jun 25**: **[Paper]** Submitted to ISC.
 *   **Jun 13**: **[Paper]** Rejected by ESORICS.
 *   **Jun  8**: **[Grant]** Proposal rejected by NATO SPS — *Wartime Cyber Threat Simulation for Critical Infrastructure Protection (WARCIP)*.
 *   **Jun  1**: **[Teaching]** [Summer school kickoff](/posts/summer-school-26/) — orientation lecture and outdoor fika.
