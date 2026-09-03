@@ -5,7 +5,7 @@ order: 10
 compress_html: false
 ---
 
-I am an offensive security researcher working on **Generative AI security**, **LLMs for vulnerability discovery**, and **AI-driven cyber threat intelligence**. Here is the path that led here.
+I am an offensive security researcher working on **Generative AI security**, **LLMs for vulnerability discovery**, and **AI-driven cyber threat intelligence**. Here is the path that led here. I have a special focus in research with national-security relevance and contributions to the open-source community.
 
 <div class="ss-timeline">
 
@@ -14,7 +14,7 @@ I am an offensive security researcher working on **Generative AI security**, **L
         <div class="ss-timeline-date">Researcher</div>
         <div class="ss-timeline-title">Agentic Offensive Security</div>
 
-        I specialize in research with national-security relevance and contributions to the open-source community. I have uncovered numerous <b>zero-day</b> vulnerabilities in agentic healthcare infrastructure deployed across Sweden. I maintain and develop openly accessible resources and projects, such as the <i>Awesome LLM Security</i> repository and some red-teaming tools. I currently offer a crash course — <i>Practical Adversarial GenAI for Red Teamers</i> — and I have previously taught Digital Forensics.
+        I have uncovered numerous <b>zero-day</b> vulnerabilities in agentic healthcare infrastructure deployed across Sweden. I maintain and develop openly accessible resources and projects, such as the <i>Awesome LLM Security</i> repository and some red-teaming tools. I currently offer a crash course — <i>Practical Adversarial GenAI for Red Teamers</i> — and I have previously taught Digital Forensics.
 
     </div>
 
