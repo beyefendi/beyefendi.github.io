@@ -22,7 +22,7 @@ Industry Panel: From Research to Operational Capability
 
 <i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-08-24</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Linköping</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">ARES 2026 Applied Industry Track</span> | <i class="fa fa-thumbs-up"></i>
 
-![Dr. Emre Süren, ARES 2026, industry panel, Linköping, KTH Royal Institute of Technology, Royal Hacking Lab](/assets/img/talks/undisclosed.jpg){: w="100" h="100" .left .talk-img}
+![Dr. Emre Süren, ARES 2026, industry panel, Linköping, KTH Royal Institute of Technology, Royal Hacking Lab](/assets/img/talks/2026-08-ares-applied.jpg){: w="100" h="100" .left .talk-img}
 
 <i>Placeholder:</i> Dr. Emre Süren served as a panelist in *Industry panel: from research to operational capability*, part of the [ARES Applied](https://linkopingsciencepark.se/event/ares-applied/) industry track at **ARES 2026**. Details and photos coming soon.
 
