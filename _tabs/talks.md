@@ -6,6 +6,17 @@ order: 2
 ---
 
 
+When AI Agents Cross the Line
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-09-10</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Royal Hacking Lab</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Svenska Dagbladet (SvD Tech)</span> | <i class="fa fa-thumbs-up"></i>
+
+![Dr. Emre Süren, Royal Hacking Lab, Svenska Dagbladet, SvD Tech, Henning Eklund, Offensive AI agents, Autonomous hacking](/assets/img/talks/2026-09-svd-tech.jpg){: w="100" h="100" .left .talk-img}
+
+Dr. Emre Süren spoke with **Henning Eklund**, technology reporter at **Svenska Dagbladet**, for a story on AI agents that act outside their intended boundaries. He helped clear up the confusion around the incidents from **June** that stirred social media — what actually happened, why it matters, and what was misinformation. The conversation also covered what autonomous hacking agents can do today, why they sometimes take unexpected paths, and what researchers can and cannot do to keep them contained.
+
+* * *
+
 SwedTI: Evidence-Grounded Multi-Source Web Threat Triage
 -----------------------------------
 
@@ -13,7 +24,7 @@ SwedTI: Evidence-Grounded Multi-Source Web Threat Triage
 
 ![Dr. Emre Süren, ARES 2026, AI4TCI, SwedTI, Linköping, KTH Royal Institute of Technology](/assets/img/talks/undisclosed.jpg){: w="100" h="100" .left .talk-img}
 
-<i>Placeholder:</i> Dr. Emre Süren presented the accepted [paper](https://link.springer.com/chapter/10.1007/978-3-032-35586-7_7) *SwedTI: Evidence-Grounded Multi-Source Web Threat Triage with Context-Aware Script Classification* at the co-located *AI for Secure and Trustworthy Critical Infrastructure (AI4TCI)* workshop, part of [ARES 2026](https://www.ares-conference.eu/conference/program) (Linköping Konsert & Kongress). Details and photos coming soon.
+Dr. Emre Süren presented the accepted [paper](https://link.springer.com/chapter/10.1007/978-3-032-35586-7_7) *SwedTI: Evidence-Grounded Multi-Source Web Threat Triage with Context-Aware Script Classification* at the co-located *AI for Secure and Trustworthy Critical Infrastructure (AI4TCI)* workshop, part of [ARES 2026](https://www.ares-conference.eu/conference/program) (Linköping Konsert & Kongress). 
 
 * * *
 
@@ -24,7 +35,8 @@ Industry Panel: From Research to Operational Capability
 
 ![Dr. Emre Süren, ARES 2026, industry panel, Linköping, KTH Royal Institute of Technology, Royal Hacking Lab](/assets/img/talks/2026-08-ares-applied.jpg){: w="100" h="100" .left .talk-img}
 
-<i>Placeholder:</i> Dr. Emre Süren served as a panelist in *Industry panel: from research to operational capability*, part of the [ARES Applied](https://linkopingsciencepark.se/event/ares-applied/) industry track at **ARES 2026**. Details and photos coming soon.
+Dr. Emre Süren served as a panelist in *Industry panel: from research to operational capability*, part of the [ARES Applied](https://linkopingsciencepark.se/event/ares-applied/) industry track at **ARES 2026**. 
+
 
 * * *
 
