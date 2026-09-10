@@ -9,7 +9,7 @@ order: 2
 When AI Agents Cross the Line
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-09-10</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Royal Hacking Lab</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Svenska Dagbladet (SvD Tech)</span> | <i class="fa fa-thumbs-up"></i>
+<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-09-10</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Online</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Svenska Dagbladet (SvD Tech)</span> | <i class="fa fa-thumbs-up"></i>
 
 ![Dr. Emre Süren, Royal Hacking Lab, Svenska Dagbladet, SvD Tech, Henning Eklund, Offensive AI agents, Autonomous hacking](/assets/img/talks/2026-09-svd-tech.jpg){: w="100" h="100" .left .talk-img}
 
