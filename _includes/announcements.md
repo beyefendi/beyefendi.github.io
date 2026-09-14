@@ -1,5 +1,6 @@
 ## Announcements
 
+*   **[Interview]** Debate on "Antrophic: AI misuse" report with *Thomas Danielsson* is coming soon.
 *   **[Interview]** "AI Agents Escapes" with *Henning Eklund* is live on [SvD Tech](https://www.svd.se/a/vrGP14/ai-agenter-fran-open-ai-hackar-pa-egen-hand-forskare-varnar-det-ar-science-fiction).
 *   **[Open position]** [Postdoc researcher — Agentic Offensive Security](/posts/postdoc-fellowship-llm-security/) · **2 Oct 2026**.
 *   **[Supervision]** Open thesis projects are listed [here](https://lab.cybercampus.se/docs/thesis/?site).
