@@ -1,5 +1,6 @@
 ## News
 
+*   **Sep 18**: **[Paper]** Submitted to ACSAC AIDC Workshop.
 *   **Sep 10**: **[Paper]** Rejected by ACM CCS AISec.
 *   **Aug 31**: **[Paper]** Rejected by ISC.
 *   **Aug 24**: **[Paper]** Accepted by ACM CCS LAMPS.

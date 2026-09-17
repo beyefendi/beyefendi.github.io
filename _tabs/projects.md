@@ -9,11 +9,11 @@ order: 3
 Current Grants
 --------------
 
-*   **Discovering Software Vulnerabilities with LLMs (NAISS 2026/4-49)**
+
+*   **Adversarial Attacks on MCP servers with Guardian Agents (F2609-30 - KTH-RPROJ-0146472)**
     
-    *2026 – 2027* | [National Academic Infrastructure for Super-computing in Sweden](https://supr.naiss.se/public/project/32722/)
-    PI | 250 GPU-h/month + 1500 GiB Storage
-    Project | Discovering Software Vulnerabilities with LLMs
+    *2026 – 2027* | [Digital Futures - Summer School Supervisors](https://www.digitalfutures.kth.se/call/digital-futures-summer-research-internship-programme-sri/)
+    PI | 120,000 SEK (~10,968 €)
 
 *   **CORTEX - An LLM-Driven Framework for Enhanced CTI through AI (KTH-RPROJ-0146472)**
 
@@ -36,11 +36,10 @@ Looking for Partners
 Completed
 ---------
 
-*   **Adversarial Attacks on MCP servers with Guardian Agents (KTH-RPROJ-0146472)**
+*   **Adversarial Attacks on MCP servers with Guardian Agents (F2603-14 - KTH-RPROJ-0146472)**
     
     *2026 – 2026* | [Digital Futures - Summer Research Internship Program](https://www.digitalfutures.kth.se/call/digital-futures-summer-research-internship-programme-sri/)
     PI | 120,000 SEK (~10,968 €)
-    Project | Discovering vulnerabilities in MCP servers protected with Guardrails
 
 *   **Sweden's Cyber Threat Intelligence (NAISS 2025/6-50)**
     
@@ -52,7 +51,6 @@ Completed
     
     *2025 – 2026* | [National Academic Infrastructure for Super-computing in Sweden](https://supr.naiss.se/public/project/32722/)
     PI | 500 GPU-h/month
-    Project | Discovering Software Vulnerabilities with LLMs
     
 *   **Swedish Cyber Threat Intelligence Demo (KTH-RPROJ-0146472)**
     
