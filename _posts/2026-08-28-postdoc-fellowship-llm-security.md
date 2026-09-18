@@ -2,7 +2,7 @@
 title: Postdoc Fellowship — Agentic Offensive Security
 categories: [supervision]
 tags: [llm, agents, security, postdoc, kth, digital-futures]
-description: Digital Futures Postdoc Fellowship hosted at KTH — applications due 20 September 2026.
+description: 
 toc: false
 ---
 
