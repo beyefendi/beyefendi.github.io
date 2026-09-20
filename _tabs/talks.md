@@ -8,9 +8,9 @@ order: 2
 Sophistication Is No Longer a Reliable Signal
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-09-21</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Print / Online</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Dagens industri</span> | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/talks/2026-09-anthropic-misuse-di.pdf)
+<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-09-21</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Print / Online</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Dagens industri</span> | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.di.se/debatt/hoten-i-den-nya-ai-varlden/) [Link 2](/assets/talks/2026-09-anthropic-misuse-di.pdf)
 
-![Dr. Emre Süren, Dagens industri, Debatt, Anthropic AI misuse report, Royal Hacking Lab, KTH](/assets/img/talks/2026-09-di-debate.jpg){: w="100" h="100" .left .talk-img}
+![Dr. Emre Süren, Dagens industri, Debatt, Anthropic AI misuse report, Autonomous hacking](/assets/img/talks/2026-09-di-debate.jpg){: w="100" h="100" .left .talk-img}
 
 Dr. Emre Süren wrote a debate piece for **Thomas Danielsson** at **Dagens industri** on Anthropic's September 2026 threat intelligence report. Drawing on two cases — a state-linked group with an automated detection-and-redeploy loop, and a lone actor who built a doxxing search engine in weeks — he argues that sophistication is no longer a reliable signal of who is behind an attack, and outlines what Swedish organisations should do next.
 
@@ -21,7 +21,7 @@ When AI Agents Cross the Line
 
 <i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-09-10</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Online</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Svenska Dagbladet (SvD Tech)</span> | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.svd.se/a/vrGP14/ai-agenter-fran-open-ai-hackar-pa-egen-hand-forskare-varnar-det-ar-science-fiction)
 
-![Dr. Emre Süren, Royal Hacking Lab, Svenska Dagbladet, SvD Tech, Henning Eklund, Offensive AI agents, Autonomous hacking](/assets/img/talks/2026-09-svd-tech.jpg){: w="100" h="100" .left .talk-img}
+![Dr. Emre Süren, Royal Hacking Lab, Svenska Dagbladet, SvD Tech, Offensive AI agents, Autonomous hacking](/assets/img/talks/2026-09-svd-tech.jpg){: w="100" h="100" .left .talk-img}
 
 Dr. Emre Süren spoke with **Henning Eklund**, technology reporter at **Svenska Dagbladet**, for a story on AI agents that act outside their intended boundaries. He helped clear up the confusion around the incidents from **June** that stirred social media — what actually happened, why it matters, and what was misinformation. The conversation also covered what autonomous hacking agents can do today, why they sometimes take unexpected paths, and what researchers can and cannot do to keep them contained.
 
