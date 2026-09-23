@@ -5,6 +5,19 @@ icon: fa-solid fa-comment
 order: 2
 ---
 
+
+From AI Infrastructure Vulns to Countermeasures
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-09-23</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Altinget</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Cybersäkerhet Nätverk</span> | <i class="fa fa-thumbs-up"></i> [Link 1](https://lnkd.in/p/dfd6erPt) [Link 2](/assets/img/talks/2026-09-altinget-2.jpg)
+
+![Dr. Emre Süren, Altinget, Cybersäkerhet Nätverk, AI infrastructures, CORTEX, LLM honeypots, Royal Hacking Lab](/assets/img/talks/2026-09-altinget-1.jpg){: w="100" h="100" .left .talk-img}
+
+Dr. Emre Süren presented at **Altinget** on vulnerability research in **AI infrastructures** and the **CORTEX** project — an LLM-based honeypot for cyber threat intelligence. Combined, the two strands offer a distinctive capability: identify adversaries, then launch informed countermeasures against them.
+
+* * *
+
+
 Sophistication Is No Longer a Reliable Signal
 -----------------------------------
 
