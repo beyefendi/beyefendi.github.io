@@ -27,22 +27,22 @@ Masters [⛓️‍💥](https://www.diva-portal.org/smash/resultList.jsf?dswid=-
 
 1.  **Enhancing LLM responses for Honeypots tailored to Industrial Control Protocols**  
     2026 - | Max Engman | KTH
-2.  **Adversarial Evasion of the Two-Phase Guardian Agent**  
-    2026 - | Melvin Sandberg | KTH
-3.  **Cyber Threat Intelligence from Adaptive Deception: Analyzing Attacker Behavior in LLM-Powered Honeypot Environments**  
-    2026 - | Adam Maeedi | KTH
-4.  **Adaptive Counter-Intrusion: Optimizing LLM Strategic Deception for High-Interaction Network Honeypots**  
-    2026 - | Jonathan Shahi | KTH
-5.  **Temporal and Contextual Fidelity: Achieving High-Realism in LLM-Driven Honeypots through Dynamic State Management**  
+2.  **Temporal and Contextual Fidelity: Achieving High-Realism in LLM-Driven Honeypots through Dynamic State Management**  
     2026 - | Linda Widell | KTH
-6.  **Implementing penetration testing methodologies for embedded systems**  
+3.  **Implementing penetration testing methodologies for embedded systems**  
     2025 - | Roy Dolonius | KTH
-7.  **Investigating fileless malware in Windows operating systems**  
+4.  **Investigating fileless malware in Windows operating systems**  
     2025 - | Anton Rådberg | KTH
-8.  **Penetration testing security weaknesses in embedded devices**  
+5.  **Penetration testing security weaknesses in embedded devices**  
     2025 - | Ísak Arnar Kolbeins | KTH
-9.  **Analyzing and exploiting vulnerabilities in the Raspberry Pi compute module**  
+6.  **Analyzing and exploiting vulnerabilities in the Raspberry Pi compute module**  
     2025 - | Hassan El Ghamri | KTH
+7.  **Adversarial Evasion of the Two-Phase Guardian Agent**  
+    2026 - | Melvin Sandberg | KTH
+8.  **Cyber Threat Intelligence from Adaptive Deception: Analyzing Attacker Behavior in LLM-Powered Honeypot Environments**  
+    2026 - | Adam Maeedi | KTH
+9.  **Adaptive Counter-Intrusion: Optimizing LLM Strategic Deception for High-Interaction Network Honeypots**  
+    2026 - | Jonathan Shahi | KTH
 10. **De-obfuscating and clustering potentially malicious JavaScript injected Swedish webpages**  
     2025 - | Hávar Sigurðarson | Stockholm University
 11. **Design and Evaluation of Memory Analytics Measures for Windows 11 Forensics**  
