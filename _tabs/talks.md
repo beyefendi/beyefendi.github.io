@@ -9,11 +9,11 @@ order: 2
 Agents Escaped the Lab. How to Hedge?
 -----------------------------------
 
-<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-09-29</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Stockholm</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Nordea Corporate Access</span> | <i class="fa fa-thumbs-up"></i>
+<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-09-29</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Stockholm</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Nordea Corporate Access</span> | <i class="fa fa-thumbs-up"></i> [Link 1](/assets/talks/2026-09-nordea-invitation.pdf)
 
-![Dr. Emre Süren, Nordea, Corporate Access, Thomas Nilsson, AI vulnerabilities, enterprise risk, investor briefing](/assets/img/talks/2026-09-nordea-1.jpg){: w="100" h="100" .left .talk-img}
+![Dr. Emre Süren, Nordea, Corporate Access, Thomas Nilsson, AI vulnerabilities, enterprise risk, investor briefing](/assets/img/talks/2026-09-nordea.jpg){: w="100" h="100" .left .talk-img}
 
-Dr. Emre Süren gave an exclusive briefing for **Nordea Corporate Access**, hosted by **Thomas Nilsson**, on AI vulnerabilities and enterprise risk for institutional investors — twenty minutes on this year's containment failures (the OpenAI/Hugging Face incident, Anthropic's September threat report, the same evaluator-sandbox gap that hit four separate labs) followed by seventy minutes of investor Q&A on where the exposure sits today and where capital has to go next.
+Dr. Emre Süren gave an exclusive briefing for **Nordea Corporate Access**, hosted by **Thomas Nilsson**, on AI vulnerabilities and enterprise risk for institutional investors — twenty minutes on this year's containment failures (the OpenAI/Hugging Face incident, Anthropic's September threat report, the same evaluator-sandbox gap that hit four separate labs) followed by an hour of investor Q&A on where the exposure sits today and where capital has to go next.
 
 * * *
 
