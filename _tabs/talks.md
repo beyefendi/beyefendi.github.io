@@ -13,7 +13,7 @@ Keeping Agents in Check Is Not Making Them Safe
 
 ![Dr. Emre Süren, Dagens industri, Debatt, Nvidia Open Agent Safety Platform, OpenShell, Sentry, AI agent containment](/assets/img/talks/2026-09-di-debate.jpg){: w="100" h="100" .left .talk-img}
 
-Dr. Emre Süren wrote a debate piece for **Dagens industri** on Nvidia's **Open Agent Safety Platform** — OpenShell and the hardware Sentry watchdog that move the safety lock outside the agent. He argues the direction is right, but a lock is not judgment: the strongest protection needs Nvidia chips that universities and SMEs lack, containment does not stop prompt injection or allowed-channel leaks, someone still has to write the rules, and nearly everything announced targets datacenters while everyday laptops remain unprotected.
+Dr. Emre Süren wrote a debate piece for **Dagens industri** on Nvidia's **Open Agent Safety Platform** — **OpenShell** and the hardware **Sentry** watchdog that move the safety lock outside the agent. He argues the direction is right, but a lock is not judgment: the strongest protection needs Nvidia chips that universities and SMEs lack, containment does not stop prompt injection or allowed-channel leaks, someone still has to write the rules, and nearly everything announced targets datacenters while everyday laptops remain unprotected.
 
 * * *
 
@@ -49,7 +49,7 @@ Sophistication Is No Longer a Reliable Signal
 
 ![Dr. Emre Süren, Dagens industri, Debatt, Anthropic AI misuse report, Autonomous hacking](/assets/img/talks/2026-09-di-debate.jpg){: w="100" h="100" .left .talk-img}
 
-Dr. Emre Süren wrote a debate piece for **Thomas Danielsson** at **Dagens industri** on Anthropic's September 2026 threat intelligence report. Drawing on two cases — a state-linked group with an automated detection-and-redeploy loop, and a lone actor who built a doxxing search engine in weeks — he argues that sophistication is no longer a reliable signal of who is behind an attack, and outlines what Swedish organisations should do next.
+Dr. Emre Süren wrote a debate piece for **Dagens industri** on Anthropic's September 2026 threat intelligence report. Drawing on two cases — a state-linked group with an automated detection-and-redeploy loop, and a lone actor who built a doxxing search engine in weeks — he argues that sophistication is no longer a reliable signal of who is behind an attack, and outlines what Swedish organisations should do next.
 
 * * *
 
