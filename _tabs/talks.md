@@ -11,9 +11,9 @@ Keeping Agents in Check Is Not Making Them Safe
 
 <i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-10-02</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Print / Online</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Dagens industri</span> | <i class="fa fa-thumbs-up"></i> [Link 1](https://www.di.se/debatt/verktygen-som-haller-ai-agenter-i-schack/)
 
-![Dr. Emre Süren, Dagens industri, Debatt, Nvidia Open Agent Safety Platform, OpenShell, Sentry, AI agent containment](/assets/img/talks/2026-09-di-debate.jpg){: w="100" h="100" .left .talk-img}
+![Dr. Emre Süren, Dagens industri, Debatt, Nvidia Open Agent Safety Platform, OpenShell, Sentry, AI agent containment](/assets/img/talks/2026-10-di-debate.jpg){: w="100" h="100" .left .talk-img}
 
-Dr. Emre Süren wrote a debate piece for **Dagens industri** on Nvidia's **Open Agent Safety Platform** — **OpenShell** and the hardware **Sentry** watchdog that move the safety lock outside the agent. He argues the direction is right, but a lock is not judgment: the strongest protection needs Nvidia chips that universities and SMEs lack, containment does not stop prompt injection or allowed-channel leaks, someone still has to write the rules, and nearly everything announced targets datacenters while everyday laptops remain unprotected.
+Dr. Emre Süren wrote a debate piece for **Dagens industri** on Nvidia's **Open Agent Safety Platform**, **OpenShell** and the hardware **Sentry** watchdog that move the safety lock outside the agent. He argues the direction is right, but a lock is not judgment: the strongest protection needs Nvidia chips that universities and SMEs lack, containment does not stop prompt injection or allowed-channel leaks, someone still has to write the rules, and nearly everything announced targets datacenters while everyday laptops remain unprotected.
 
 * * *
 

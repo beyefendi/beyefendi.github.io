@@ -44,12 +44,12 @@ Certificates
 ------------
 
 2018 | [**Certified Ethical Hacker (CEH) v10**](/assets/img/cv/2018-ceh-v10.pdf)  
-2016 | [**GIAC Reverse Engineering Malware (GREM)**](/assets/img/cv/2016-grem.jpeg)  
-2015 | **TSE Certified Penetration Test Expert – Network & System**  
-2015 | [**TSE Certified Penetration Test Expert – Web & Database**](/assets/img/cv/2015-tse-web-pentest.jpeg)  
+2016 | [**GIAC Reverse Engineering Malware (GREM)**](/assets/img/cv/2016-grem.jpg)  
+2015 | [**TSE Certified Penetration Test Expert – Network & System**](/assets/img/cv/2015-tse-network-pentest.jpg)  
+2015 | [**TSE Certified Penetration Test Expert – Web & Database**](/assets/img/cv/2015-tse-web-pentest.jpg)  
 2013 | [**GIAC Penetration Tester Certification (GPEN)**](/assets/img/cv/2013-gpen.jpg)  
 2012 | [**GIAC Web Application Penetration Tester (GWAPT)**](/assets/img/cv/2012-gwapt.jpg)  
-2011 | **GIAC Security Essentials (GSEC)**  
+2011 | [**GIAC Security Essentials (GSEC)**](/assets/img/cv/2011-gsec.png)  
 2011 | [**Certified Ethical Hacker (CEH) v7**](/assets/img/cv/2011-ceh-v7.jpg)  
   
 
