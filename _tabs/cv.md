@@ -43,14 +43,14 @@ Private Trainings
 Certificates
 ------------
 
-2018 | **Certified Ethical Hacker (CEH) v10**  
-2016 | **GIAC Reverse Engineering Malware (GREM)**  
+2018 | [**Certified Ethical Hacker (CEH) v10**](/assets/img/cv/2018-ceh-v10.pdf)  
+2016 | [**GIAC Reverse Engineering Malware (GREM)**](/assets/img/cv/2016-grem.jpeg)  
 2015 | **TSE Certified Penetration Test Expert – Network & System**  
-2015 | **TSE Certified Penetration Test Expert – Web & Database**  
-2013 | **GIAC Penetration Tester Certification (GPEN)**  
-2012 | **GIAC Web Application Penetration Tester (GWAPT)**  
+2015 | [**TSE Certified Penetration Test Expert – Web & Database**](/assets/img/cv/2015-tse-web-pentest.jpeg)  
+2013 | [**GIAC Penetration Tester Certification (GPEN)**](/assets/img/cv/2013-gpen.jpg)  
+2012 | [**GIAC Web Application Penetration Tester (GWAPT)**](/assets/img/cv/2012-gwapt.jpg)  
 2011 | **GIAC Security Essentials (GSEC)**  
-2011 | **Certified Ethical Hacker (CEH) v7**  
+2011 | [**Certified Ethical Hacker (CEH) v7**](/assets/img/cv/2011-ceh-v7.jpg)  
   
 
 Publicly Disclosed Vulnerabilities
