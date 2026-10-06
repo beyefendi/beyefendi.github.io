@@ -6,6 +6,18 @@ order: 2
 ---
 
 
+Collaboration Opportunities in Super Agent Development
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-10-06</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Royal Hacking Lab</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Cybercampus Graduate School</span> | <i class="fa fa-thumbs-up"></i>
+
+![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Graduate School, Super agent, vulnerability discovery, IoT hacking](/assets/img/talks/2026-10-cc-graduate-school.jpg){: w="100" h="100" .left .talk-img}
+
+Dr. Emre Süren hosted new PhD students at the **Cybercampus Graduate School** to discuss collaboration opportunities. He presented his current focus on **Super agent** development for vulnerability discovery, alongside his previous research in **IoT hacking**.
+
+* * *
+
+
 Keeping Agents in Check Is Not Making Them Safe
 -----------------------------------
 
