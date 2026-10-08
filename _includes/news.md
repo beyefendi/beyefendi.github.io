@@ -1,5 +1,6 @@
 ## News
 
+*   **Oct 7**: **[Grant]** Writing a proposal for NordForsk.
 *   **Oct 2**: **[Interview]** "Anthropic's AI misuse report" - [Dagens industri](https://www.di.se/debatt/hoten-i-den-nya-ai-varlden/).
 *   **Oct 2**: **[Paper]** Submitted to ACM SAC (co-supervisor).
 *   **Sep 28**: **[Paper]** Rejected by NordSec (co-supervisor).
