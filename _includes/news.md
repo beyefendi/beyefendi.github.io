@@ -1,15 +1,15 @@
 ## News
 
+*   **Oct 23**: **[Paper]** Accepted by ACSAC AIDC Workshop.
+*   **Oct 21**: **[Paper]** Rejected by NDSS.
 *   **Oct 7**: **[Grant]** Writing a proposal for NordForsk.
 *   **Oct 2**: **[Interview]** "Anthropic's AI misuse report" - [Dagens industri](https://www.di.se/debatt/hoten-i-den-nya-ai-varlden/).
 *   **Oct 2**: **[Paper]** Submitted to ACM SAC (co-supervisor).
 *   **Sep 28**: **[Paper]** Rejected by NordSec (co-supervisor).
-*   **Sep 18**: **[Paper]** Submitted to ACSAC AIDC Workshop.
 *   **Sep 11**: **[Interview]** "AI Agents Escapes" - [SvD Tech](https://www.svd.se/a/vrGP14/ai-agenter-fran-open-ai-hackar-pa-egen-hand-forskare-varnar-det-ar-science-fiction).
 *   **Sep 10**: **[Paper]** Rejected by ACM CCS AISec.
 *   **Aug 31**: **[Paper]** Rejected by ISC.
 *   **Aug 24**: **[Paper]** Accepted by ACM CCS LAMPS.
-*   **Aug 17**: **[Paper]** Submitted to NDSS.
 *   **Jul 21**: **[Paper]** Rejected by an ESORICS workshop.
 *   **Jul 10**: **[Grant]** Submitted a proposal to the Swedish Research Council (VR).
 *   **Jun 13**: **[Paper]** Rejected by ESORICS.
