@@ -13,7 +13,7 @@ Agent Escaping to Where for Why
 
 ![Dr. Emre Süren, Royal Hacking Lab, KTH Executive Business School, Agent escaping, AI agents](/assets/img/talks/2026-10-kth-executive-school.jpg){: w="100" h="100" .left .talk-img}
 
-Dr. Emre Süren hosted the **KTH Executive Business School** for a session on **agent escaping** and how **Anthropic's Cyber Verification Program** fits into the picture. The discussion asked how much sandbox incidents in the lab differ from what large enterprises will face in the wild, and how those organisations can defend their borders when agents leave their intended boxes. Participants pressed on whether frontier labs can simply dial risk down with a setting change and what benchmark tests are for — and what they do not prove.
+Dr. Emre Süren hosted the **KTH Executive Business School** for a session on **agent escaping** and how **Anthropic's Cyber Verification Program** fits into the picture. The discussion asked how much sandbox incidents in the lab differ from what large enterprises will face in the wild, and how those organisations can defend their borders when agents leave their intended boxes. Participants pressed on whether frontier labs can simply dial risk down with a setting change and what benchmark tests are for.
 
 * * *
 
