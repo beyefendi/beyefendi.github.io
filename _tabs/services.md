@@ -9,6 +9,8 @@ order: 6
 Administrative Service & Membership
 -----------------------------------
 
+* [**Anthropic Cyber Verification Program (Glasswing)**](https://portal.anthropic.com/programs/cvp)  
+  2026 | Defense Access
 * [**Utställningen Unga Forskares**](https://ungaforskare.se/utstallningen/)  
   2026 | [Digitaljuryledamot](../assets/services/2026-unga-forskare-jury.pdf)
 * [**Digital Futures**](https://www.digitalfutures.kth.se/person/emre-suren/)  
