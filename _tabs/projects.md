@@ -9,12 +9,6 @@ order: 3
 Current Grants
 --------------
 
-
-*   **Adversarial Attacks on MCP servers with Guardian Agents (F2609-30 - KTH-RPROJ-0146472)**
-    
-    *2026 – 2027* | [Digital Futures - Summer School Supervisors](https://www.digitalfutures.kth.se/call/digital-futures-summer-research-internship-programme-sri/)
-    PI | 120,000 SEK (~10,968 €)
-
 *   **CORTEX - An LLM-Driven Framework for Enhanced CTI through AI (KTH-RPROJ-0146472)**
 
     *2026 – 2027* | [Digital Futures - Research Pairs](https://www.digitalfutures.kth.se/call/open-call-research-pairs-projects/)
