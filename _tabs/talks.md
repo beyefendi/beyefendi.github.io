@@ -6,6 +6,18 @@ order: 2
 ---
 
 
+Potential Ways of Collaboration between Finland and Sweden in AI
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-11-03</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Stockholm</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Embassy of Finland</span> | <i class="fa fa-thumbs-up"></i>
+
+![Dr. Emre Süren, Embassy of Finland, Sweden–Finland AI collaboration, NordForsk, Helsinki University, Food Security](/assets/img/talks/2026-11-finland-embassy.jpg){: w="100" h="100" .left .talk-img}
+
+Dr. Emre Süren visited the **Embassy of Finland** in Stockholm to discuss potential ways of collaboration between **Finland and Sweden in AI**. He suggested applying jointly for **EU calls**, and pointed to his current **NordForsk** proposal with **Helsinki University** on **Food Security** as an example already underway.
+
+* * *
+
+
 Agent Escaping to Where for Why
 -----------------------------------
 
