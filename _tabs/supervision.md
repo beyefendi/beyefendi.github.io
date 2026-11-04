@@ -41,12 +41,12 @@ Masters [⛓️‍💥](https://www.diva-portal.org/smash/resultList.jsf?dswid=-
     2026 - | Melvin Sandberg | KTH
 8.  **Cyber Threat Intelligence from Adaptive Deception: Analyzing Attacker Behavior in LLM-Powered Honeypot Environments**  
     2026 - | Adam Maeedi | KTH
-9.  **Adaptive Counter-Intrusion: Optimizing LLM Strategic Deception for High-Interaction Network Honeypots**  
-    2026 - | Jonathan Shahi | KTH
-10. **De-obfuscating and clustering potentially malicious JavaScript injected Swedish webpages**  
+9.  **De-obfuscating and clustering potentially malicious JavaScript injected Swedish webpages**  
     2025 - | Hávar Sigurðarson | Stockholm University
-11. **Design and Evaluation of Memory Analytics Measures for Windows 11 Forensics**  
+10. **Design and Evaluation of Memory Analytics Measures for Windows 11 Forensics**  
     2024 - | Edward Norberg | KTH
+11. [**Honeypot LLM: Optimizing LLM Strategic Deception for High-Interaction Network Honeypots**](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-391087)  
+    2026 - 2026 | Jonathan Shahi | KTH
 12. [**Fuzzing Matter(s) : Stateful black-box fuzzer implementation for Matter protocol devices**](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-386115)  
     2025 - 2026 | Marco Campione | KTH
 13. [**Large Language Models for Software Vulnerability Discovery and Exploitation**](https://urn.kb.se/resolve?urn=urn:nbn:se:kau:diva-110683)  
