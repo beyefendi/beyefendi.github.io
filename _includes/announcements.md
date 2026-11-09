@@ -1,6 +1,6 @@
 ## Announcements
 
-*   **[Supervision]** Open thesis projects are listed [here](https://lab.cybercampus.se/docs/thesis/?site).
+*   **[Supervision]** Open thesis [projects](https://lab.cybercampus.se/docs/thesis/?site).
 *   **[Open-source]** Current contributions: [Awesome LLM Security](https://github.com/beyefendi/awesome-llm-security).
-*   **[Teaching]** Latest courses: [AI Agents for Pentesting](https://youtube.com/playlist?list=PLHSZe6NjhTwUa2jVwQgDM2BTyWVvbmAls) and [Prompt Injection & Jailbreaking](https://www.youtube.com/playlist?list=PLHSZe6NjhTwW1jboW_ccfJpVTMJQvi1zW).
-*   **[Collaboration]** Seeking co-authors for ongoing research on LLM-based honeypots.
+*   **[Teaching]** [AI Agents for Pentesting](https://youtube.com/playlist?list=PLHSZe6NjhTwUa2jVwQgDM2BTyWVvbmAls) and [Prompt Injection & Jailbreaking](https://www.youtube.com/playlist?list=PLHSZe6NjhTwW1jboW_ccfJpVTMJQvi1zW).
+*   **[Collaboration]** Seeking researchers on AI red teaming and LLM-based honeypots.

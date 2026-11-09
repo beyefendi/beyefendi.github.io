@@ -6,7 +6,7 @@ order: 2
 ---
 
 
-Potential Ways of Collaboration between Finland and Sweden in AI
+Collaboration between Finland and Sweden in AI
 -----------------------------------
 
 <i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-11-03</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">Stockholm</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">Embassy of Finland</span> | <i class="fa fa-thumbs-up"></i>
