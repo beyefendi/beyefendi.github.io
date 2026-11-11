@@ -3,6 +3,7 @@ title: Publications
 # the default layout is 'page'
 icon: fa-solid fa-newspaper
 order: 1
+description: "Dr. Emre Süren - ACM CCS and ACSAC speaker"
 ---
 
 Conference Proceedings
@@ -16,13 +17,13 @@ Conference Proceedings
     <span class="pub-title">**From Guardrail Leak to Agentic Infrastructure Compromise: Lateral Movement Across an LLM-Orchestrated Kubernetes Platform**</span>  
     <span class="pub-venue">_3rd ACM CCS Workshop on Large AI Systems and Models with Privacy and Safety Analysis (LAMPS'26)_, November 2026.</span>  
 3.  <span class="pub-authors">**E. Süren**, S. Hacks, H. Sigurðarson</span>  
-    <span class="pub-title">**SwedTI: Evidence-Grounded Multi-Source Web Threat Triage with Context-Aware Script Classification.**</span>  
+    <span class="pub-title">**SwedTI: Evidence-Grounded Multi-Source Web Threat Triage with Context-Aware Script Classification**</span>  
     <span class="pub-venue">_International Conference on Availability, Reliability and Security (ARES'26)_, 16902:1-18, August 2026.</span>
 4.  <span class="pub-authors">S. Hacks, C. Artho, R. Guanciale, R. Künnemann, D. Malakhova, **E. Süren.**</span>  
-    <span class="pub-title">**FreeCAT - A Framework for Resilience and Evolution by Code Analysis Tools.**</span>  
+    <span class="pub-title">**FreeCAT - A Framework for Resilience and Evolution by Code Analysis Tools**</span>  
     <span class="pub-venue">_International Conference on Evaluation and Modeling Methods for Systems Analysis and Development_, Mar. 2025.</span>
 5.  <span class="pub-authors">J. Weiss, L. Nordström, P. Hilber, **E. Suren**.</span>  
-    <span class="pub-title">**Procedural Generation of Communication Networks in Power Systems.**</span>  
+    <span class="pub-title">**Procedural Generation of Communication Networks in Power Systems**</span>  
     <span class="pub-venue">_16th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy 2025)_, Dec. 2024.</span>
 6.  <span class="pub-authors">Ege. Ciklabakkal, Ataberk. Donmez, M. Erdemir, **E. Suren**, MK. Yilmaz, P. Angin</span>  
     <span class="pub-title">**ARTEMIS: An intrusion detection system for MQTT attacks in Internet of Things.**</span>  
@@ -34,18 +35,18 @@ Peer-Reviewed Journal Articles
 ------------------------------
 
 1.  <span class="pub-authors">F. Heiding, **E. Suren**, J. Olegård, R. Lagerström.</span>  
-    <span class="pub-title">**Penetration testing of connected households.**</span>  
+    <span class="pub-title">**Penetration testing of connected households**</span>  
     <span class="pub-venue">_Computers & Security_, 126:103067, February 2023.</span>
 2.  <span class="pub-authors">**E. Suren**, F. Heiding, J. Olegård, R. Lagerström.</span>  
-    <span class="pub-title">**PatrIoT: Practical and agile threat research for IoT.**</span>  
+    <span class="pub-title">**PatrIoT: Practical and agile threat research for IoT**</span>  
     <span class="pub-venue">_International Journal of Information Security (IJIS'23)_, 213–233, February 2023.</span>
 3.  <span class="pub-authors">**E. Suren**.</span>  
-    <span class="pub-title">**ZEKI: Unsupervised Zero-day Exploit Kit Intelligence.**</span>  
+    <span class="pub-title">**ZEKI: Unsupervised Zero-day Exploit Kit Intelligence**</span>  
     <span class="pub-venue">_Turkish Journal of Electrical Engineering & Computer Sciences (TJEECS'20)_, 28(5):1859-1870, March 2020.</span>
 4.  <span class="pub-authors">**E. Suren**, P. Angin, N. Baykal.</span>  
-    <span class="pub-title">**I see EK: A Lightweight Technique to Reveal Exploit Kit family by Overall URL Patterns of Infection Chains.**</span>  
+    <span class="pub-title">**I see EK: A Lightweight Technique to Reveal Exploit Kit family by Overall URL Patterns of Infection Chains**</span>  
     <span class="pub-venue">_Turkish Journal of Electrical Engineering & Computer Sciences (TJEECS'19)_, 27(5):3713-3728, September 2019.</span>
 5.  <span class="pub-authors">**E. Suren** and P. Angin.</span>  
-    <span class="pub-title">**Know Your EK: A Content and Workflow Analysis Approach for Exploit Kits.**</span>  
+    <span class="pub-title">**Know Your EK: A Content and Workflow Analysis Approach for Exploit Kits**</span>  
     <span class="pub-venue">_Journal of Internet Services and Information Security (JISIS'19)_, 9(1):24–47, February 2019.</span>
 {: reversed="reversed"}

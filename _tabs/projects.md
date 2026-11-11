@@ -9,11 +9,18 @@ order: 3
 Current Grants
 --------------
 
+*   **Making SciLifeLabs life science data available to industry and the public sector through guided AI agents**
+    
+    *2027 – 2030* | [Grant for accessibility to infrastructure 2026 (Vetenskapsrådet)](https://www.vr.se/swecris.html#/project/2026-07858_VR)
+    Participating Researcher | 375,000 SEK (~0.35M €)    
+    Work package | Red-teaming agentic infrastructure
+
 *   **CORTEX - An LLM-Driven Framework for Enhanced CTI through AI (KTH-RPROJ-0146472)**
 
     *2026 – 2027* | [Digital Futures - Research Pairs](https://www.digitalfutures.kth.se/call/open-call-research-pairs-projects/)
     PI | 2,000,000 SEK (~0.18M €)
     Project | [AI based Cyber Threat Intelligence research](https://www.digitalfutures.kth.se/project/cortex-an-llm-driven-framework-for-enhanced-cti/) [(LinkedIn)](https://www.linkedin.com/posts/royal-hacking-lab_exciting-news-our-researcher-dr-activity-7385348213190426624-DWOF)    
+
 
 <!-- Applied -->
 <!-- ------- -->
