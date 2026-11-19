@@ -6,6 +6,8 @@ order: 2
 ---
 
 
+<div class="talk-featured" markdown="1">
+
 From Guardrail Leak to Agentic Infrastructure Compromise
 -----------------------------------
 
@@ -14,6 +16,8 @@ From Guardrail Leak to Agentic Infrastructure Compromise
 ![Dr. Emre Süren, LAMPS, ACM CCS 2026, The Hague, guardrail, agentic infrastructure, prompt injection, KTH Royal Institute of Technology](/assets/img/talks/2026-11-acm-ccs-1.jpg){: w="100" h="100" .left .talk-img}
 
 Dr. Emre Süren presented the accepted [paper](https://doi.org/10.1145/3846374.3846388) *From Guardrail Leak to Agentic Infrastructure Compromise: Lateral Movement Across an LLM-Orchestrated Kubernetes Platform* at the *3rd ACM CCS Workshop on Large AI Systems and Models with Privacy and Safety Analysis (LAMPS)*, part of **ACM CCS 2026**. The work is part of a long-term project; this particular piece goes **beyond attack success rate**: on a real, authorized deployment, a single token leaked in a guardrail response became a six-stage path to the infrastructure behind it. A poster accompanied the talk as well.
+
+</div>
 
 * * *
 
@@ -66,6 +70,8 @@ Dr. Emre Süren wrote a debate piece for **Dagens industri** on Nvidia's **Open 
 * * *
 
 
+<div class="talk-featured" markdown="1">
+
 Agents Escaped the Lab. How to Hedge?
 -----------------------------------
 
@@ -74,6 +80,8 @@ Agents Escaped the Lab. How to Hedge?
 ![Dr. Emre Süren, Nordea, Corporate Access, Thomas Nilsson, AI vulnerabilities, enterprise risk, investor briefing](/assets/img/talks/2026-09-nordea.jpg){: w="100" h="100" .left .talk-img}
 
 Dr. Emre Süren gave an exclusive briefing for **Nordea Corporate Access**, hosted by **Thomas Nilsson**, on AI vulnerabilities and enterprise risk for institutional investors — twenty minutes on this year's containment failures (the OpenAI/Hugging Face incident, Anthropic's September threat report, the same evaluator-sandbox gap that hit four separate labs) followed by an hour of investor Q&A on where the exposure sits today and where capital has to go next.
+
+</div>
 
 * * *
 

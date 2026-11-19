@@ -16,6 +16,49 @@
   object-fit: cover;
 }
 
+/* featured / highlighted talk entries */
+.talk-featured {
+  position: relative;
+  margin: 0 0 1.5rem;
+  padding: 1rem 1.15rem 0.85rem 1.25rem;
+  border-left: 3px solid #0284c7;
+  border-radius: 0 8px 8px 0;
+  background: rgba(2, 132, 199, 0.07);
+
+  &::before {
+    content: 'Featured';
+    display: inline-block;
+    margin-bottom: 0.55rem;
+    padding: 0.12rem 0.55rem;
+    border-radius: 999px;
+    background: #0284c7;
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  }
+
+  > :first-child {
+    margin-top: 0.15rem;
+  }
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+[data-mode='dark'] .talk-featured {
+  border-left-color: #38bdf8;
+  background: rgba(56, 189, 248, 0.1);
+
+  &::before {
+    background: #38bdf8;
+    color: #0f172a;
+  }
+}
+
+
 /* talks.html metadata color coding */
 .talk-date {
   color: #0284c7;
