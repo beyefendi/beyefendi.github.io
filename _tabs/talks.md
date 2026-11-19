@@ -70,8 +70,6 @@ Dr. Emre Süren wrote a debate piece for **Dagens industri** on Nvidia's **Open 
 * * *
 
 
-<div class="talk-featured" markdown="1">
-
 Agents Escaped the Lab. How to Hedge?
 -----------------------------------
 
@@ -80,8 +78,6 @@ Agents Escaped the Lab. How to Hedge?
 ![Dr. Emre Süren, Nordea, Corporate Access, Thomas Nilsson, AI vulnerabilities, enterprise risk, investor briefing](/assets/img/talks/2026-09-nordea.jpg){: w="100" h="100" .left .talk-img}
 
 Dr. Emre Süren gave an exclusive briefing for **Nordea Corporate Access**, hosted by **Thomas Nilsson**, on AI vulnerabilities and enterprise risk for institutional investors — twenty minutes on this year's containment failures (the OpenAI/Hugging Face incident, Anthropic's September threat report, the same evaluator-sandbox gap that hit four separate labs) followed by an hour of investor Q&A on where the exposure sits today and where capital has to go next.
-
-</div>
 
 * * *
 
@@ -222,6 +218,8 @@ He also shed light to the future of the cybersecurity ecosystem, the skills in d
 
 * * *
 
+<div class="talk-featured" markdown="1">
+
 Taking Down Adversarial Infrastructure
 -----------------------------------
 
@@ -230,6 +228,8 @@ Taking Down Adversarial Infrastructure
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH ReaktorHallen, Taking Down Adversarial Infrastructure Courtesy: Sanna Johannesson, Blackbox Videoproduktion AB](/assets/img/talks/2026-03-sact.jpg){: w="100" h="100" .left .talk-img}
 
 Dr. Süren demonstrated his threat intelligence research covering the **Cyber Criminal Neutralization Agent** to an audience of Swedish military and **NATO SACT**, which showcased taking down adversarial infrastructure (Sentinel) targeting critical infrastructure in the region. Dr. Süren provided a briefing to **Admiral Pierre Vandier** regarding how AI can be used as a counter-attack to deter threat actors.
+
+</div>
 
 * * *
 
@@ -304,6 +304,8 @@ Dr. Emre Süren served as an expert witness for the **Stockholm Criminal Court**
 
 * * *
 
+<div class="talk-featured" markdown="1">
+
 Practical Adversarial GenAI for Red Teamers (Workshop)
 -----------------------------------
 
@@ -311,6 +313,8 @@ Practical Adversarial GenAI for Red Teamers (Workshop)
 
 ![Dr. Emre Süren, Royal Hacking Lab, Cybercampus Sverige, KTH Royal Institute of Technology Offensive AI Security](/assets/img/talks/2025-12-ecb.jpg){: w="100" h="100" .left .talk-img}
 Dr. Emre Süren delivered a hands-on workshop at the **European Central Bank**, demonstrating practical experiments in **adversarial GenAI** techniques. The session covered **prompt injection** attacks, jailbreaking methodologies, and the deployment of autonomous penetration testing agents, providing participants with direct experience in offensive AI security research.
+
+</div>
 
 * * *
 
