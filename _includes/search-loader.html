@@ -1,0 +1,114 @@
+<!--
+  Jekyll Simple Search loader (site override)
+  Base: Chirpy theme — appends ?q= to result URLs and scrolls to the first match on the target page.
+  See: <https://github.com/christian-fei/Simple-Jekyll-Search>
+-->
+
+{% capture result_elem %}
+  <article class="px-1 px-sm-2 px-lg-4 px-xl-0">
+    <header>
+      <h2><a href="{url}">{title}</a></h2>
+      <div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1">
+        {categories}
+        {tags}
+      </div>
+    </header>
+    <p>{content}</p>
+  </article>
+{% endcapture %}
+
+{% capture not_found %}<p class="mt-5">{{ site.data.locales[include.lang].search.no_results }}</p>{% endcapture %}
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('search-results'),
+      json: '{{ '/assets/js/data/search.json' | relative_url }}',
+      searchResultTemplate: '{{ result_elem | strip_newlines }}',
+      noResultsText: '{{ not_found }}',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'url' && value) {
+          const input = document.getElementById('search-input');
+          const q = input && input.value ? input.value.trim() : '';
+          if (q) {
+            const sep = value.indexOf('?') === -1 ? '?' : '&';
+            return value + sep + 'q=' + encodeURIComponent(q);
+          }
+          return value;
+        }
+
+        if (prop === 'categories') {
+          if (value === '') {
+            return `${value}`;
+          } else {
+            return `<div class="me-sm-4"><i class="far fa-folder fa-fw"></i>${value}</div>`;
+          }
+        }
+
+        if (prop === 'tags') {
+          if (value === '') {
+            return `${value}`;
+          } else {
+            return `<div><i class="fa fa-tag fa-fw"></i>${value}</div>`;
+          }
+        }
+      }
+    });
+
+    /* Scroll to / flash the first text match for ?q= from search results */
+    (function focusSearchMatch() {
+      const params = new URLSearchParams(window.location.search);
+      const q = (params.get('q') || '').trim();
+      if (q.length < 2) return;
+
+      const root =
+        document.querySelector('main .content') ||
+        document.querySelector('main') ||
+        document.body;
+
+      const needle = q.toLowerCase();
+      const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+      let node;
+
+      while ((node = walker.nextNode())) {
+        const text = node.nodeValue;
+        if (!text || !text.trim()) continue;
+
+        const parent = node.parentElement;
+        if (!parent || parent.closest('script, style, noscript, svg')) continue;
+
+        const idx = text.toLowerCase().indexOf(needle);
+        if (idx === -1) continue;
+
+        const block =
+          parent.closest(
+            '.talk-featured, h1, h2, h3, h4, h5, p, li, article, section, tr'
+          ) || parent;
+
+        try {
+          const range = document.createRange();
+          range.setStart(node, idx);
+          range.setEnd(node, Math.min(idx + q.length, text.length));
+          const mark = document.createElement('mark');
+          mark.className = 'search-jump-hit';
+          range.surroundContents(mark);
+          mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        } catch (e) {
+          block.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          block.classList.add('search-jump-block');
+          setTimeout(() => block.classList.remove('search-jump-block'), 2400);
+        }
+
+        params.delete('q');
+        const qs = params.toString();
+        history.replaceState(
+          null,
+          '',
+          window.location.pathname + (qs ? '?' + qs : '') + window.location.hash
+        );
+        break;
+      }
+    })();
+  });
+</script>

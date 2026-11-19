@@ -16,6 +16,30 @@
   object-fit: cover;
 }
 
+/* search jump: first match after clicking a result (?q=) */
+mark.search-jump-hit {
+  background: rgba(2, 132, 199, 0.35);
+  color: inherit;
+  padding: 0 0.12em;
+  border-radius: 2px;
+  box-decoration-break: clone;
+}
+
+.search-jump-block {
+  outline: 2px solid #0284c7;
+  outline-offset: 4px;
+  border-radius: 4px;
+  transition: outline-color 0.3s ease;
+}
+
+[data-mode='dark'] mark.search-jump-hit {
+  background: rgba(56, 189, 248, 0.35);
+}
+
+[data-mode='dark'] .search-jump-block {
+  outline-color: #38bdf8;
+}
+
 /* featured / highlighted talk entries */
 .talk-featured {
   position: relative;
