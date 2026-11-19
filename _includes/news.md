@@ -1,5 +1,6 @@
 ## News
 
+*   **Nov 15**: **[Paper]** Presented at ACM CCS LAMPS.
 *   **Nov 6**: **[Grant]** Accepted by the Swedish Research Council (VR).
 *   **Oct 23**: **[Paper]** Accepted by ACSAC AIDC Workshop.
 *   **Oct 21**: **[Paper]** Rejected by NDSS.
@@ -10,7 +11,6 @@
 *   **Sep 11**: **[Interview]** "AI Agents Escapes" - [SvD Tech](https://www.svd.se/a/vrGP14/ai-agenter-fran-open-ai-hackar-pa-egen-hand-forskare-varnar-det-ar-science-fiction).
 *   **Sep 10**: **[Paper]** Rejected by ACM CCS AISec.
 *   **Aug 31**: **[Paper]** Rejected by ISC.
-*   **Aug 24**: **[Paper]** Accepted by ACM CCS LAMPS.
 *   **Jul 21**: **[Paper]** Rejected by an ESORICS workshop.
 *   **Jun 13**: **[Paper]** Rejected by ESORICS.
 *   **Jun  8**: **[Grant]** Proposal rejected by NATO SPS — *Wartime Cyber Threat Simulation for Critical Infrastructure Protection (WARCIP)*.

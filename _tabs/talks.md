@@ -6,6 +6,18 @@ order: 2
 ---
 
 
+From Guardrail Leak to Agentic Infrastructure Compromise
+-----------------------------------
+
+<i class="fa-regular fa-calendar"></i> <span class="talk-date">2026-11-15</span> | <i class="fa-solid fa-location-dot"></i> <span class="talk-location">The Hague</span> | <i class="fa fa-bookmark"></i> <span class="talk-venue">LAMPS @ ACM CCS 2026</span> | <i class="fa fa-thumbs-up"></i> [Link 1](https://doi.org/10.1145/3846374.3846388)
+
+![Dr. Emre Süren, LAMPS, ACM CCS 2026, The Hague, guardrail, agentic infrastructure, prompt injection, KTH Royal Institute of Technology](/assets/img/talks/2026-11-acm-ccs-1.jpg){: w="100" h="100" .left .talk-img}
+
+Dr. Emre Süren presented the accepted [paper](https://doi.org/10.1145/3846374.3846388) *From Guardrail Leak to Agentic Infrastructure Compromise: Lateral Movement Across an LLM-Orchestrated Kubernetes Platform* at the **3rd ACM CCS Workshop on Large AI Systems and Models with Privacy and Safety Analysis (LAMPS)**, part of **ACM CCS 2026**. The work is part of a long-term project; this particular piece goes beyond **attack success rate**: on a real, authorized deployment, a single token leaked in a guardrail response became a six-stage path to the infrastructure behind it. A poster accompanied the talk as well.
+
+* * *
+
+
 Collaboration between Finland and Sweden in AI
 -----------------------------------
 
