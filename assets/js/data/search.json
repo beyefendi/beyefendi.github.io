@@ -1,0 +1,29 @@
+---
+layout: compress
+swcache: true
+---
+
+[
+{%- assign searchable_tabs = site.tabs | where_exp: "tab", "tab.published != false" -%}
+{%- for post in site.posts -%}
+  {
+    "title": {{ post.title | jsonify }},
+    "url": {{ post.url | relative_url | jsonify }},
+    "categories": {{ post.categories | join: ', ' | jsonify }},
+    "tags": {{ post.tags | join: ', ' | jsonify }},
+    "date": {{ post.date | jsonify }},
+    {% capture content -%}{% include post-summary.html full_text=true %}{%- endcapture -%}
+    "content": {{ content | jsonify }}
+  }{%- unless forloop.last and searchable_tabs.size == 0 -%},{%- endunless -%}
+{%- endfor -%}
+{%- for tab in searchable_tabs -%}
+  {
+    "title": {{ tab.title | jsonify }},
+    "url": {{ tab.url | relative_url | jsonify }},
+    "categories": "page",
+    "tags": "",
+    "date": "",
+    "content": {{ tab.content | strip_html | normalize_whitespace | jsonify }}
+  }{%- unless forloop.last -%},{%- endunless -%}
+{%- endfor -%}
+]
