@@ -26,6 +26,8 @@ Administrative Service & Membership
 Technical Program Committee
 ---------------------------
 
+* [**IFIP International Information Security and Privacy Conference (IFIP SEC)**](https://ifipsec.org/)  
+  2027 | Member
 * [**Nordic Conference on Secure IT systems (NordSec)**](https://nordsec2024.kau.se/)  
   2024 - current | Member
 * [**DFIR Review (DFIRR)**](https://dfir.pubpub.org/)  
